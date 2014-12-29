@@ -23,7 +23,7 @@ Academicons is an icon font for academics. It aims to supplement other packages 
 
 ##How to use
 
-#Alongside Font Awesome
+###Alongside Font Awesome
 Academicons was built as a supplement to Font Awesome, which means that the two fonts share the same metrics. To use alongside an existing Font Awesome installation, place the `fonts` folder and the `academicons.css` stylesheet in the same directory on your server and link to the stylesheet using:
 
     <link rel="stylesheet" href="/path/to/folder/academicons.css" />
@@ -34,5 +34,5 @@ Call the icons in the same way as you would using Font Awesome, but replacing `f
 
 Note that the Font Awesome styling classes (such as `fa-3x`, `fa-spin`, etc.) can be used with Academicons.
 
-#With IcoMoon
+###With IcoMoon
 The SVG font (`fonts/academicons.svg`) can be readily imported into the IcoMoon App (https://icomoon.io/app/), allowing you to merge only the icons that you want into your icon set.
