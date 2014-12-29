@@ -13,6 +13,14 @@ Academicons is an icon font for academics. It aims to supplement other packages 
 ##Author
 - GitHub: https://github.com/dtnedry
 
+##Icons
+`google-scholar`
+`google-scholar-square`
+`researchgate`
+`researchgate-square`
+`mendeley`
+`mendeley-square`
+
 ##How to use
 
 #Alongside Font Awesome
