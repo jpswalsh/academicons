@@ -20,6 +20,10 @@ Academicons is an icon font for academics. It aims to supplement other packages 
 `researchgate-square`
 `mendeley`
 `mendeley-square`
+`orcid`
+`orcid-square`
+`impactstory`
+`impactstory-square`
 
 ##How to use
 
