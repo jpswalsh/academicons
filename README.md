@@ -24,6 +24,12 @@ Academicons is an icon font for academics. It aims to supplement other packages 
 `orcid-square`
 `impactstory`
 `impactstory-square`
+`academia`
+`academia-square`
+`zotero`
+`zotero-square`
+`figshare`
+`figshare-square`
 
 ##How to use
 
