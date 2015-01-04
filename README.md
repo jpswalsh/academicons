@@ -1,6 +1,6 @@
 Academicons
 ===========
-Academicons is an icon font for academics. It aims to supplement other packages (such as Font Awesome) with icons for academic websites. Go to http://dtnedry.github.io/academicons to view the full icon set along with instructions for their use.
+Academicons is an icon font for academics. It aims to supplement other packages (such as Font Awesome) with icons for academic websites. Go to http://jpswalsh.github.io/academicons to view the full icon set along with instructions for their use.
 
 ##License
 - The Academicons font is licensed under the SIL OFL 1.1:
@@ -11,4 +11,5 @@ Academicons is an icon font for academics. It aims to supplement other packages 
   - http://creativecommons.org/licenses/by/3.0/
 
 ##Author
-- GitHub: https://github.com/dtnedry
+- GitHub: https://github.com/jpswalsh
+- Web: http://jpswalsh.com
