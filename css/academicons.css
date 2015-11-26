@@ -1,16 +1,16 @@
 /*
- *  Academicons 1.5.1 by James Walsh - https://github.com/jpswalsh
+ *  Academicons 1.6.0 by James Walsh - https://github.com/jpswalsh
  *  Fonts generated using the IcoMoon app - http://icomoon.io/app
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
 @font-face {
 	font-family: 'Academicons';
-	src:url('../fonts/academicons.eot?v=1.5.0');
-	src:url('../fonts/academicons.eot?v=1.5.0') format('embedded-opentype'),
-		url('../fonts/academicons.ttf?v=1.5.0') format('truetype'),
-		url('../fonts/academicons.woff?v=1.5.0') format('woff'),
-		url('../fonts/academicons.svg?v=1.5.0#academicons') format('svg');
+	src:url('../fonts/academicons.eot?v=1.6.0');
+	src:url('../fonts/academicons.eot?v=1.6.0') format('embedded-opentype'),
+		url('../fonts/academicons.ttf?v=1.6.0') format('truetype'),
+		url('../fonts/academicons.woff?v=1.6.0') format('woff'),
+		url('../fonts/academicons.svg?v=1.6.0#academicons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,76 +23,76 @@
 	-moz-osx-font-smoothing:grayscale;
 }
 .ai-google-scholar:before {
-	content: "\e600";
+	content: "\e900";
 }
 .ai-google-scholar-square:before {
-	content: "\e601";
+	content: "\e901";
 }
 .ai-researchgate:before {
-	content: "\e612";
+	content: "\e902";
 }
 .ai-researchgate-square:before {
-	content: "\e613";
+	content: "\e903";
 }
 .ai-mendeley:before {
-	content: "\e604";
+	content: "\e904";
 }
 .ai-mendeley-square:before {
-	content: "\e605";
+	content: "\e905";
 }
 .ai-orcid:before {
 	content: "\e606";
 }
 .ai-orcid-square:before {
-	content: "\e607";
+	content: "\e907";
 }
 .ai-impactstory:before {
-	content: "\e608";
+	content: "\e908";
 }
 .ai-impactstory-square:before {
-	content: "\e609";
+	content: "\e909";
 }
 .ai-academia:before {
-	content: "\e60a";
+	content: "\e910";
 }
 .ai-academia-square:before {
-	content: "\e60b";
+	content: "\e911";
 }
 .ai-zotero:before {
-	content: "\e60c";
+	content: "\e912";
 }
 .ai-zotero-square:before {
-	content: "\e60d";
+	content: "\e913";
 }
 .ai-figshare:before {
-	content: "\e60e";
+	content: "\e914";
 }
 .ai-figshare-square:before {
-	content: "\e60f";
+	content: "\e915";
 }
 .ai-dryad:before {
-	content: "\e610";
+	content: "\e916";
 }
 .ai-dryad-square:before {
-	content: "\e611";
+	content: "\e917";
 }
 .ai-arxiv:before {
-	content: "\e616";
+	content: "\e918";
 }
 .ai-arxiv-square:before {
-	content: "\e617";
+	content: "\e919";
 }
 .ai-scirate:before {
-	content: "\e614";
+	content: "\e920";
 }
 .ai-scirate-square:before {
-	content: "\e615";
+	content: "\e921";
 }
-.ai-researchgate-old:before {
-	content: "\e602";
+.ai-open-access:before {
+	content: "\e922";
 }
-.ai-researchgate-old-square:before {
-	content: "\e603";
+.ai-open-access-square:before {
+	content: "\e923";
 }
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
 .ai-lg {
