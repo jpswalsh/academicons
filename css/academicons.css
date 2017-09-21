@@ -22,6 +22,9 @@
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
 }
+    .ai > .label {
+      display: none;
+    }
 .ai-academia:before {
   content: "\e800";
 }
