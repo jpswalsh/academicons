@@ -61,19 +61,25 @@
 .ai-ceur:before {
   content: "\e812";
 }
-.ai-ceur-box:before {
+.ai-ceur-square:before {
   content: "\e813";
 }
-.ai-courser:before {
+.ai-coursera:before {
   content: "\e814";
 }
-.ai-courser-square:before {
+.ai-coursera-square:before {
   content: "\e815";
+}
+.ai-cv-square:before {
+  content: "\e902";
+}
+.ai-cv:before {
+  content: "\e903";
 }
 .ai-dataverse:before {
   content: "\e816";
 }
-.ai-dataverse-box:before {
+.ai-dataverse-square:before {
   content: "\e817";
 }
 .ai-dblp:before {
@@ -129,6 +135,12 @@
 }
 .ai-inspire-square:before {
   content: "\e835";
+}
+.ai-mathoverflow-square:before {
+  content: "\e900";
+}
+.ai-mathoverflow:before {
+  content: "\e901";
 }
 .ai-mendeley:before {
   content: "\e836";
