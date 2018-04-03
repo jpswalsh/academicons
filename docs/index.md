@@ -41,8 +41,8 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
-      <i class="ai ai-courser ai-4x"></i>
-      courser
+      <i class="ai ai-coursera ai-4x"></i>
+      coursera
     </div>
 
     <div class="col-2 center ai-case">
