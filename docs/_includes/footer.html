@@ -4,23 +4,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.title %}
-              <b>{{ site.title | escape }}</b>
-            {% endif %}
-          </li>
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% endif %}
-          </li>
-          <li>
-            {% if site.github_username %}
-              {% include icon-github.html username=site.github_username %}
-            {% endif %}
-          </li>
-        </ul>
+        {% include social.html %}
       </div>
 
       <div class="footer-col">
