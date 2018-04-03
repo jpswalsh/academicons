@@ -62,7 +62,7 @@ layout: home
 
     <div class="col-2 center ai-case">
       <i class="ai ai-doi ai-4x"></i>
-      <p>doi</p>
+      doi
     </div>
 
     <div class="col-2 center ai-case">
