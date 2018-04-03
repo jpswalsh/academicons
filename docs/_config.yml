@@ -6,7 +6,6 @@ description: >
 baseurl: "/academicons"
 url: "https://jpswalsh.github.io"
 github_username:  jpswalsh
-github_username:  katjabercic
 
 markdown: kramdown
 theme: minima
