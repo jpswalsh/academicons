@@ -99,15 +99,15 @@ layout: home
       <i class="ai ai-inspire ai-4x"></i>
       inspire
     </div>
-
-    <div class="col-2 center ai-case">
-      <i class="ai ai-mendeley ai-4x"></i>
-      mendeley
-    </div>
     
     <div class="col-2 center ai-case">
       <i class="ai ai-mathoverflow ai-4x"></i>
       mathoverflow
+    </div>
+
+    <div class="col-2 center ai-case">
+      <i class="ai ai-mendeley ai-4x"></i>
+      mendeley
     </div>
 
     <div class="col-2 center ai-case">
