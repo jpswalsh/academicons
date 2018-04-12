@@ -220,7 +220,15 @@
 .ai-zotero-square:before {
   content: "\e861";
 }
+.ai-lattes:before {
+  content: "\e904";
+}
+.ai-lattes-square:before {
+  content: "\e905";
+}
+
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
+
 .ai-lg {
   font-size: 1.33333333em;
   line-height: 0.75em;
