@@ -8,6 +8,7 @@ layout: home
       <i class="ai ai-academia ai-4x"></i>
       <i class="ai ai-acclaim ai-4x"></i>
       <i class="ai ai-acm ai-4x"></i>
+      <i class="ai ai-acmdl ai-4x"></i>
       <i class="ai ai-ads ai-4x"></i>
       <i class="ai ai-arxiv ai-4x"></i>
       <i class="ai ai-biorxiv ai-4x"></i>
@@ -21,9 +22,11 @@ layout: home
       <i class="ai ai-dryad ai-4x"></i>
       <i class="ai ai-figshare ai-4x"></i>
       <i class="ai ai-google-scholar ai-4x"></i>
+      <i class="ai ai-ideas-repec ai-4x"></i>
       <i class="ai ai-ieee ai-4x"></i>
       <i class="ai ai-impactstory ai-4x"></i>
       <i class="ai ai-inspire ai-4x"></i>
+      <i class="ai ai-lattes ai-4x"></i>
       <i class="ai ai-mendeley ai-4x"></i>
       <i class="ai ai-mathoverflow ai-4x"></i>
       <i class="ai ai-open-access ai-4x"></i>
@@ -35,7 +38,9 @@ layout: home
       <i class="ai ai-publons ai-4x"></i>
       <i class="ai ai-pubmed ai-4x"></i>
       <i class="ai ai-researchgate ai-4x"></i>
+      <i class="ai ai-researcherid ai-4x"></i>
       <i class="ai ai-scirate ai-4x"></i>
+      <i class="ai ai-semantic-scholar ai-4x"></i>
       <i class="ai ai-springer ai-4x"></i>
       <i class="ai ai-zotero ai-4x"></i>
       <br>
@@ -43,6 +48,7 @@ layout: home
       <i class="ai ai-academia-square ai-4x"></i>
       <i class="ai ai-acclaim-square ai-4x"></i>
       <i class="ai ai-acm-square ai-4x"></i>
+      <i class="ai ai-acmdl-square ai-4x"></i>
       <i class="ai ai-ads-square ai-4x"></i>
       <i class="ai ai-arxiv-square ai-4x"></i>
       <i class="ai ai-biorxiv-square ai-4x"></i>
@@ -56,9 +62,11 @@ layout: home
       <i class="ai ai-dryad-square ai-4x"></i>
       <i class="ai ai-figshare-square ai-4x"></i>
       <i class="ai ai-google-scholar-square ai-4x"></i>
+      <i class="ai ai-ideas-repec-square ai-4x"></i>
       <i class="ai ai-ieee-square ai-4x"></i>
       <i class="ai ai-impactstory-square ai-4x"></i>
       <i class="ai ai-inspire-square ai-4x"></i>
+      <i class="ai ai-lattes-square ai-4x"></i>
       <i class="ai ai-mendeley-square ai-4x"></i>
       <i class="ai ai-mathoverflow-square ai-4x"></i>
       <i class="ai ai-open-access-square ai-4x"></i>
@@ -70,7 +78,9 @@ layout: home
       <i class="ai ai-publons-square ai-4x"></i>
       <i class="ai ai-pubmed-square ai-4x"></i>
       <i class="ai ai-researchgate-square ai-4x"></i>
+      <i class="ai ai-researcherid-square ai-4x"></i>
       <i class="ai ai-scirate-square ai-4x"></i>
+      <i class="ai ai-semantic-scholar-square ai-4x"></i>
       <i class="ai ai-springer-square ai-4x"></i>
       <i class="ai ai-zotero-square ai-4x"></i>
   </div>
