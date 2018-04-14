@@ -19,6 +19,11 @@ layout: home
       <i class="ai ai-acm ai-4x"></i>
       acm
     </div>
+    
+    <div class="col-2 center ai-case">
+      <i class="ai ai-acmdl ai-4x"></i>
+      acmdl
+    </div>
 
     <div class="col-2 center ai-case">
       <i class="ai ai-ads ai-4x"></i>
@@ -84,6 +89,11 @@ layout: home
       <i class="ai ai-google-scholar ai-4x"></i>
       google-scholar
     </div>
+    
+    <div class="col-2 center ai-case">
+      <i class="ai ai-ideas-repec ai-4x"></i>
+      ideas-repec
+    </div>
 
     <div class="col-2 center ai-case">
       <i class="ai ai-ieee ai-4x"></i>
@@ -98,6 +108,11 @@ layout: home
     <div class="col-2 center ai-case">
       <i class="ai ai-inspire ai-4x"></i>
       inspire
+    </div>
+    
+    <div class="col-2 center ai-case">
+      <i class="ai ai-lattes ai-4x"></i>
+      lattes
     </div>
     
     <div class="col-2 center ai-case">
@@ -154,10 +169,20 @@ layout: home
       <i class="ai ai-researchgate ai-4x"></i>
       researchgate
     </div>
+    
+    <div class="col-2 center ai-case">
+      <i class="ai ai-researcherid ai-4x"></i>
+      researcherid
+    </div>
 
     <div class="col-2 center ai-case">
       <i class="ai ai-scirate ai-4x"></i>
       scirate
+    </div>
+    
+    <div class="col-2 center ai-case">
+      <i class="ai ai-semantic-scholar ai-4x"></i>
+      semantic-scholar
     </div>
 
     <div class="col-2 center ai-case">
