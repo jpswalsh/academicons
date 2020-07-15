@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="mathoverflow.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 512 512"
+   height="512"
+   width="512">
+  <title
+     id="title833">MathOverflow</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="51"
+     inkscape:window-height="713"
+     inkscape:window-width="1315"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="256"
+     inkscape:cx="256"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide23"
+       orientation="0,1"
+       position="511.99998,64" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>MathOverflow</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>MathOverflow</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       id="path2"
+       d="m 202.21325,207.12803 c 10.08577,-6.2055 19.39403,-10.86119 27.1509,-13.96391 7.75686,-3.10277 13.96394,-4.65416 19.39401,-4.65416 10.86119,0 19.39402,3.87819 25.60108,10.86119 6.2076,6.98092 9.30825,17.06669 9.30825,29.47769 v 76.80013 l 4.65412,4.65411 14.7399,1.55139 v 10.08365 h -58.95747 v -10.08365 l 12.41257,-1.55139 4.65412,-4.65411 v -71.37006 c 0,-9.3098 -2.32681,-16.29126 -6.2076,-20.94538 -3.87817,-4.65411 -10.08577,-6.98092 -18.61806,-6.98092 -3.87817,0 -8.5323,0.77542 -13.96394,2.32681 -5.42953,1.55138 -10.86119,3.87815 -17.06668,6.98092 v 90.76405 l 4.65411,4.65412 13.18641,1.55138 v 10.08365 h -58.17994 v -10.08365 l 13.18643,-1.55138 4.65411,-4.65412 v -71.37006 c 0,-9.3098 -2.32681,-16.29126 -6.20758,-20.94538 -3.87818,-4.65411 -10.08576,-6.98092 -17.84264,-6.98092 -4.65412,0 -9.30827,0.77543 -13.96396,2.32681 -4.65569,1.55138 -10.86119,3.87816 -16.29127,6.98092 v 90.76405 l 4.65412,4.65412 13.18642,1.55138 v 10.08365 H 86.621439 v -10.08365 l 14.739921,-1.55138 4.65411,-4.65412 V 209.45484 H 86.621439 v -8.53231 l 31.806611,-9.3098 h 10.08576 v 14.73988 c 9.30823,-5.42954 17.84261,-9.3098 24.82354,-12.41257 6.98092,-2.32681 13.18642,-3.87816 18.61807,-3.87816 6.98092,0 12.41257,1.55135 17.84265,4.65412 4.65623,2.32681 9.3098,6.2055 12.41464,12.41257 z m 215.63681,-24.99049 c -70.5946,0 -88.43515,61.28425 -88.43515,88.43725 0,33.35795 25.5995,55.07875 65.93838,55.07875 71.37003,0 88.43725,-62.83564 88.43725,-86.10836 0,-36.4628 -23.27218,-57.40818 -65.94048,-57.40818 z m -20.16733,119.46578 c -13.18643,0 -20.94541,-8.53442 -20.94541,-23.2743 0,-10.85962 6.98096,-72.14598 40.33945,-72.14598 14.73778,0 21.72079,8.53438 20.94539,25.6011 0,7.75896 -6.20761,69.81864 -40.33943,69.81864 z M 28.209463,63.999997 V 448 H 412.20949 l -0.0113,-86.39973 h -24.95014 v 61.44018 H 51.716253 V 88.96059 H 387.24934 v 61.44018 h 24.95063 l 0.0113,-86.399735 z"
+       style="stroke-width:0.069453" />
+  </g>
+</svg>

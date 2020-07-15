@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="dblp.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 384 512"
+   height="512"
+   width="384">
+  <title
+     id="title833">dblp</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="51"
+     inkscape:window-height="713"
+     inkscape:window-width="1315"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="256"
+     inkscape:cx="192"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide23"
+       orientation="0,1"
+       position="384.00001,64" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>dblp</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>dblp</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       id="path2"
+       d="m 188.77869,183.02808 3.09584,-1.44011 -12.58172,-47.82558 c -0.72006,-2.71784 -2.59184,-4.62603 -5.02175,-5.48983 l 0.0541,0.16199 14.45399,54.59359 z M 86.611017,233.76986 C 81.877185,231.03382 76.999142,225.05771 75.793291,220.504 L 64.147214,176.45841 29.713488,192.51446 c -5.867811,2.73607 -9.504075,9.37807 -8.082172,14.77784 l 44.297609,168.53285 c 1.421922,5.39977 7.379814,7.57817 13.248135,4.8421 L 192.12652,327.99957 181.8128,288.74196 86.611504,233.77037 Z m 105.497303,94.21151 12.58171,47.82556 c 0.63,2.42993 2.23206,4.15801 4.28398,5.13006 L 194.66424,326.79323 Z M 362.36971,302.29573 318.0721,133.76287 c -1.42189,-5.39974 -7.37984,-7.57816 -13.24811,-4.84209 l -112.94946,52.66767 11.06972,42.11968 94.44527,54.52175 c 4.73383,2.73605 9.61187,8.71216 10.81777,13.28407 l 11.06965,41.86767 34.99188,-16.32576 c 5.88609,-2.71785 9.52184,-9.35988 8.09987,-14.76013 z M 174.28878,128.27256 c -1.27821,-4.55417 -6.0839,-10.42202 -10.76408,-13.12212 L 35.72554,41.369012 C 30.991694,38.632966 28.093714,40.127221 29.299558,44.69913 L 64.147214,176.45841 166.08061,128.92078 c 2.89799,-1.35008 5.81418,-1.49377 8.20817,-0.64822 z m -4.68019,76.1754 29.3219,16.91984 -10.13408,-38.33972 -20.32181,9.4859 c -5.85011,2.73605 -9.48588,9.37807 -8.06396,14.77784 l 21.40167,81.43143 3.29419,1.88999 -21.90566,-82.83564 c -1.24178,-4.57191 1.6562,-6.06617 6.40775,-3.33012 z m 39.36591,176.50721 0.70186,2.62779 c 1.20585,4.55422 6.08389,10.52984 10.81772,13.26592 l 127.79916,73.7814 c 4.73382,2.73604 7.63181,1.2418 6.42595,-3.31192 l -35.424,-133.93723 -101.37524,47.26794 c -3.22183,1.512 -6.44417,1.47609 -8.94594,0.30614 z m 11.86164,-76.7158 c 1.20587,4.55418 -1.69212,6.04796 -6.42596,3.3119 l -29.32189,-16.91982 9.57595,36.17999 20.89765,-9.73787 c 5.85013,-2.73605 9.48589,-9.37808 8.06396,-14.77784 l -20.66388,-78.5876 -4.03198,-2.32212 21.90566,82.85336 z"
+       style="stroke-width:0.0771696" />
+  </g>
+</svg>

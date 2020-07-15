@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="384"
+   height="512"
+   viewBox="0 0 384 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="researchgate.svg">
+  <title
+     id="title833">ResearchGate</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="192"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1315"
+     inkscape:window-height="713"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4" />
+    <sodipodi:guide
+       position="384.00001,64"
+       orientation="0,1"
+       id="guide23"
+       inkscape:label="baseline"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ResearchGate</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>ResearchGate</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       style="stroke-width:0.0663148"
+       d="M 228.65968,408.10149 C 208.46616,386.12784 181.4422,350.83324 158.962,310.93516 c 37.13444,-8.68487 64.63318,-43.55027 64.63318,-78.38386 0,-51.3457 -39.88089,-75.17678 -92.16329,-75.17678 -27.02266,0 -48.583367,1.36546 -68.715441,1.36546 -18.369155,0 -36.722401,0 -48.154153,-0.4447 v 13.30466 l 17.401097,3.19159 c 11.968845,2.30214 18.78249,7.76579 18.78249,36.21494 v 180.59919 c 0,28.43543 -6.813222,33.92871 -18.78249,36.19953 l -17.401097,3.25258 v 13.25908 c 12.367998,-0.4447 33.912828,-1.3513 55.473533,-1.3513 20.62404,0 47.217451,0.9066 58.680561,1.3513 v -13.25908 l -23.84698,-3.25258 c -12.366696,-1.796 -18.813848,-7.7641 -18.813848,-36.19953 v -76.54225 c 11.002507,0.92078 20.624038,0.92078 35.325548,0.92078 27.95932,49.94887 54.55102,87.55896 69.65214,104.9618 13.779,16.52587 34.84949,27.05401 61.44162,27.05401 7.78128,0 16.02316,-1.36721 21.05458,-3.68315 v -11.89361 c -16.49625,0 -32.99204,-11.47725 -44.8702,-24.3213 z M 119.06392,295.34424 c -15.59093,0 -22.434257,-0.41463 -33.007939,-1.41103 V 178.91935 c 10.573682,-0.92079 24.751869,-0.92079 37.135739,-0.92079 38.53132,0 61.42745,20.19525 61.42745,56.83902 0,36.21495 -24.73641,60.50666 -65.55525,60.50666 z m 139.93416,-115.7035 c -0.4606,-2.4087 -0.87524,-5.21701 -1.24303,-8.45544 -0.38328,-3.26846 -0.63033,-7.10411 -0.78243,-11.63108 -0.15386,-4.49562 -0.21509,-9.98891 -0.21509,-16.28098 0,-6.32297 0.0616,-11.7398 0.21509,-16.25087 0.15258,-4.52698 0.39915,-8.4099 0.78243,-11.64703 0.36778,-3.22291 0.78243,-6.0467 1.24303,-8.45541 0.4447,-2.4246 1.02776,-4.72679 1.78055,-6.981678 3.94262,-11.923264 10.40396,-20.884861 19.44246,-26.901503 9.0226,-6.015342 20.08653,-9.036752 33.22147,-9.036752 6.75224,0 12.87587,0.782429 18.30773,2.377345 5.37082,1.580761 10.1887,3.760457 14.43897,6.552435 4.18926,2.762339 7.81137,6.015349 10.80317,9.698476 3.06868,3.697285 5.53882,7.641624 7.47319,11.877718 0.75106,1.349583 0.53752,2.424608 -0.65998,3.175676 l -16.68012,6.858773 c -1.41275,0.75278 -2.40869,0.36907 -3.19287,-1.12058 -3.74283,-6.93613 -6.93611,-11.49275 -12.18281,-14.806757 -5.30941,-3.299853 -10.22007,-4.865129 -18.3077,-4.865129 -8.79314,0 -12.7216,1.748734 -18.22953,5.693102 -5.46364,3.867008 -9.46901,8.732137 -11.83217,16.142614 -0.47437,1.33581 -0.9053,2.99348 -1.41104,4.94203 -0.41463,1.97991 -0.75278,4.40452 -0.9663,7.24247 -0.21544,2.83925 -0.41464,6.35308 -0.59855,10.49678 -0.12246,4.14373 -0.18403,9.17686 -0.18403,15.00788 0,5.86107 0.0616,10.8942 0.18403,15.03794 0.18402,4.12779 0.38328,7.64162 0.59855,10.48086 0.2135,2.86931 0.55167,5.27805 0.9663,7.27386 0.50616,1.91846 0.93667,3.57483 1.41104,4.92613 2.36316,7.38084 5.74037,11.41585 10.71205,14.65467 4.91068,3.28394 10.55651,5.64755 19.34965,5.64755 7.81134,0 14.96232,-2.22524 19.62634,-5.61746 4.61979,-3.39094 8.45544,-7.87108 10.17452,-13.99472 0.75281,-2.57843 1.71916,-5.78588 2.3791,-9.71393 0.59853,-3.92843 0.59853,-8.08632 0.59853,-13.82497 0,-0.9066 -0.5074,-1.36721 -1.3513,-1.36721 h -26.71631 c -1.50383,0 -2.24073,-0.73558 -2.24073,-2.23898 v -15.31466 c 0,-1.51931 0.7369,-2.25661 2.24073,-2.25661 h 49.02807 c 1.53521,0 2.25661,0.73688 2.25661,2.25661 v 13.08938 c 0,6.93614 0,13.36612 -0.7214,19.32001 -0.69131,5.95392 -1.62625,11.10951 -2.80789,14.86822 -3.74453,11.7712 -9.68254,20.14969 -18.78247,26.39405 -9.1313,6.29165 -20.90079,9.68257 -33.6838,9.68257 -13.13494,0 -24.19891,-3.02183 -33.22147,-9.0226 -9.0385,-6.07635 -15.49984,-14.99239 -19.44246,-26.91566 -0.75279,-2.25489 -1.33585,-4.57253 -1.78055,-6.99714 z"
+       id="path2" />
+  </g>
+</svg>

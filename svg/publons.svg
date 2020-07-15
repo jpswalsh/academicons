@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="512"
+   viewBox="0 0 320 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="publons.svg">
+  <title
+     id="title833">Publons</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="160"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1315"
+     inkscape:window-height="713"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4" />
+    <sodipodi:guide
+       position="320,64"
+       orientation="0,1"
+       id="guide23"
+       inkscape:label="baseline"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Publons</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Publons</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       style="stroke-width:0.0675242"
+       d="m 282.06661,122.98132 c -3.2209,-7.85624 -7.83525,-15.06718 -12.99213,-21.77629 C 256.78328,85.683269 240.55101,72.513548 221.19584,67.207938 192.10931,59.16487 159.8688,66.793626 136.1456,85.051094 c -5.09779,3.864028 -9.62245,8.388701 -13.81111,13.199916 -2.0064,-10.384158 -2.62896,-21.005002 -4.98098,-31.309075 -1.20489,-1.294575 -2.37127,-3.231853 -4.44504,-2.905461 -5.1586,0.09944 -9.94883,2.271956 -14.643244,4.188662 -20.224038,8.79381 -40.379391,17.725013 -60.594244,26.507449 -2.134581,1.017656 -4.803349,1.542209 -6.166613,3.667156 -0.44494,2.846399 -0.414315,5.800009 -0.03024,8.656029 1.225451,2.80484 4.278347,4.08801 6.759869,5.60003 6.520115,3.66586 13.545546,6.67851 19.265902,11.6096 5.137607,4.22893 7.854503,10.72979 8.320008,17.27046 0.206476,2.16476 0.276964,4.33785 0.286564,6.5201 -0.01928,79.37849 0.01134,158.76613 -0.01928,238.14414 -0.513633,10.0289 0.139125,20.1457 -1.4722,30.09455 -0.830385,4.68302 -3.516655,9.91996 -8.635448,10.84791 -7.667246,0.59191 -15.403189,-0.28686 -23.059497,0.39504 -2.046205,0.0782 -2.766336,2.3026 -2.638585,4.02066 0.01928,4.56491 -0.128201,9.13946 0.07831,13.71355 -0.0098,1.25431 1.353637,1.848 2.055831,2.70727 14.305929,-0.37455 28.603547,-1.41271 42.909037,-1.58071 27.34747,-0.53287 54.71551,-0.0495 82.01486,1.59995 2.1442,0.0113 5.52304,0.0397 5.99686,-2.67666 0.42569,-4.88163 0.36619,-9.83024 0.0398,-14.70227 -0.0398,-2.16476 -2.24308,-3.192 -4.11997,-3.192 -5.90892,-0.30577 -11.8161,-0.0385 -17.72502,-0.0994 -3.43703,-0.0896 -7.17287,0.41431 -10.30409,-1.3344 -3.12158,-1.89615 -4.20965,-5.69106 -5.04966,-9.0209 -2.48984,-12.46884 -1.57108,-25.26408 -2.03526,-37.89132 -0.30717,-28.06888 -0.73108,-56.13955 -0.83039,-84.21808 11.61922,5.2369 24.23682,7.96343 36.89293,9.07993 21.98411,2.11359 44.63892,-2.23345 64.03432,-12.87353 24.43372,-13.12161 43.18774,-35.51086 53.77794,-60.96217 8.38869,-19.94886 12.08341,-41.72343 11.70893,-63.31246 -0.0722,-14.87511 -1.8511,-30.00181 -7.66072,-43.81469 z M 228.61503,238.8957 c -4.35664,15.52352 -13.17935,30.85628 -27.79371,38.68187 -12.32972,6.86577 -27.14097,6.02578 -40.52814,3.36967 -10.39378,-2.05582 -19.82898,-7.39994 -27.78411,-14.26743 -6.80624,-6.65924 -9.33763,-16.52976 -9.20814,-25.80656 0.12949,-40.41003 -0.18723,-80.84061 0.15837,-121.24099 9.11844,-12.78564 23.93932,-21.054439 39.40201,-23.179386 14.68174,-2.153842 30.21312,2.678368 40.78583,13.140856 14.32649,13.96028 21.40004,33.5329 25.55064,52.69163 4.95998,25.17439 6.34425,51.6626 -0.58232,76.61034 z"
+       id="path2" />
+  </g>
+</svg>
