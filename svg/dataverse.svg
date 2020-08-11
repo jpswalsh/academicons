@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="512"
+   viewBox="0 0 320 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="dataverse.svg">
+  <title
+     id="title833">Dataverse</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="160"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1315"
+     inkscape:window-height="713"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4" />
+    <sodipodi:guide
+       position="320,64"
+       orientation="0,1"
+       id="guide23"
+       inkscape:label="baseline"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Dataverse</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Dataverse</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       style="stroke-width:0.07717"
+       d="m 234.55878,151.33351 c -0.0147,0 -0.0257,0.002 -0.0414,0.002 L 224.16976,96.812862 c 15.38213,-7.702378 25.99025,-23.574443 25.99025,-41.918293 0,-25.857997 -21.03653,-46.8945659 -46.89284,-46.8945659 -25.85803,0 -46.89911,21.0365689 -46.89911,46.8968339 0,25.858034 21.04053,46.896833 46.89911,46.896833 0.64873,0 1.28333,-0.0722 1.9281,-0.0996 l 9.97184,52.5411 c -27.25948,8.32453 -47.14885,33.69486 -47.14885,63.6431 0,22.04302 10.81663,41.55831 27.37532,53.67526 l -21.77855,36.87756 c -14.95433,-8.29345 -32.13858,-13.03243 -50.4163,-13.03243 -57.513449,0 -104.302352,46.78948 -104.302352,104.30066 0,57.51118 46.78947,104.30067 104.302352,104.30067 57.51286,0 104.30234,-46.78949 104.30234,-104.30067 0,-32.21545 -14.68591,-61.05947 -37.71052,-80.20745 l 22.92967,-38.82661 c 6.853,2.39098 14.18125,3.75738 21.84068,3.75738 36.69162,0 66.54272,-29.85103 66.54272,-66.54265 0,-36.69561 -29.85278,-66.54664 -66.5444,-66.54664 z m -26.61074,248.3654 c 0,46.72732 -38.01848,84.74581 -84.74975,84.74581 -46.731246,0 -84.749743,-38.01849 -84.749743,-84.74581 0,-46.72957 38.018497,-84.7475 84.749743,-84.7475 46.73127,0 84.74975,38.0185 84.74975,84.7475 z M 203.26732,85.497762 c -16.8746,0 -30.6032,-13.726911 -30.6032,-30.600925 0,-16.874011 13.7286,-30.600923 30.6032,-30.600923 16.87455,0 30.59923,13.726912 30.59923,30.600923 0,16.874014 -13.72695,30.600925 -30.59923,30.600925 z m 31.29146,179.370208 c -25.90998,0 -46.9895,-21.0801 -46.9895,-46.98954 0,-25.91171 21.08007,-46.98951 46.9895,-46.98951 25.90944,0 46.98955,21.08007 46.98955,46.98951 0.003,25.91002 -21.08011,46.98954 -46.98955,46.98954 z"
+       id="path2" />
+  </g>
+</svg>

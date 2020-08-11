@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="biorxiv.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 512 512"
+   height="512"
+   width="512">
+  <title
+     id="title833">bioRxiv</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="51"
+     inkscape:window-height="713"
+     inkscape:window-width="1315"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="256"
+     inkscape:cx="256"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide25"
+       orientation="0,1"
+       position="511.99998,64" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>bioRxiv</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>bioRxiv</rdf:li>
+            <rdf:li>arXiv</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       id="path2"
+       d="m 396.31691,272.78487 c 7.38765,-9.69104 14.77855,-17.97051 20.56437,-27.25036 15.46427,-24.80225 39.67725,-64.23719 45.30032,-75.08866 2.86854,-5.8078 7.05271,-9.9256 9.69482,-10.17994 2.64435,-0.25452 6.01996,-0.34704 8.87698,1.43726 2.85649,1.78649 5.05191,6.09835 3.0511,14.54445 -2.00081,8.44613 -3.14918,11.51913 -5.92018,18.02639 -16.22018,35.4953 -40.01597,66.06752 -65.03092,95.63879 -4.71912,5.57921 -4.92745,9.66469 -2.2831,15.97734 11.28831,26.95927 21.87122,54.21127 33.08008,81.20506 3.72696,8.97286 8.33156,17.60919 12.93226,26.18581 4.65116,8.67254 7.97469,13.25737 22.09818,13.06662 5.81983,-0.0189 16.88179,-1.57164 17.81805,6.85202 1.02456,9.20753 -10.15581,10.57905 -16.81935,11.93798 -7.52186,1.53373 -11.30861,2.11914 -19.00259,2.13724 -17.73751,0.0378 -38.69881,-6.75008 -47.38171,-22.50708 -8.88903,-16.12974 -13.68604,-27.89167 -21.84166,-49.92352 -5.35279,-14.46388 -11.36451,-28.69969 -17.65966,-44.7916 -3.5444,3.8048 -6.88,6.45737 -9.04306,9.85709 -26.84687,36.39753 -42.4356,65.84111 -54.46011,86.51134 -9.48051,16.29634 -10.27423,23.4954 -21.53244,21.14378 -10.26602,-4.19566 -7.30318,-17.97215 -6.49518,-21.46232 4.76297,-20.56822 19.83639,-40.7741 31.58249,-58.5357 13.12907,-19.85288 29.26866,-37.69672 43.65471,-56.74763 2.12903,-2.82085 3.59262,-8.19122 2.38176,-11.17213 -12.89832,-31.73655 -26.30968,-63.26857 -39.77152,-94.7749 -7.32128,-15.62046 -12.30082,-25.58007 -41.09642,-24.49745 -4.763,-0.43306 -7.65183,-1.68779 -7.574,-7.18699 0,-6.6695 4.50263,-9.03704 7.80258,-10.01551 32.53629,-9.65483 65.22715,-6.81202 82.16106,29.55978 10.48858,22.5268 19.77666,45.61111 29.62777,68.43722 1.4493,3.34597 3.01924,6.63771 5.28646,11.61505 z M 15.43533,356.4435 c 7.567963,-5.67954 12.840186,-11.08389 15.819468,-16.22403 2.973234,-5.1341 4.462609,-11.35686 4.462609,-18.65786 V 101.31572 c 0,-6.216714 -1.275019,-12.300782 -3.821242,-18.25277 -1.699877,-2.698598 -3.400283,-5.272222 -5.09793,-7.706094 C 25.100549,72.92303 21.989189,69.140142 17.46411,64 h 100.59034 c 32.71499,0 58.33728,6.629522 76.86305,19.874796 18.51753,13.252992 27.78316,31.638414 27.78316,55.163974 0,18.39146 -6.22441,33.80531 -18.65788,46.23875 -7.03458,7.03461 -13.93049,12.1687 -20.68662,15.41218 -6.76216,3.24572 -17.44095,6.62952 -32.0435,10.13997 l 27.17415,36.09882 c 5.67953,7.57398 13.38562,16.90152 23.12049,27.9876 10.81144,12.16871 22.44074,24.60766 34.88188,37.31576 11.08389,11.6293 19.80463,20.07926 26.1617,25.34985 6.35103,5.27443 16.02174,11.56132 29.00228,18.86016 h -65.70683 c -10.81967,0 -22.44897,-6.21676 -34.88408,-18.65788 -14.60255,-14.86896 -29.47534,-33.12008 -44.61673,-54.7567 -10.27809,-13.79016 -19.33539,-26.49827 -27.1758,-38.12757 -6.22276,-9.18942 -15.14741,-23.12047 -26.770702,-41.77833 50.835672,-7.02856 76.253492,-26.77071 76.253492,-59.2193 0,-30.28115 -21.49681,-45.426943 -64.49155,-45.426943 H 88.040794 V 320.69387 c 0,7.85848 1.419193,14.2232 4.258151,19.09693 2.838924,4.87922 8.315645,10.43267 16.428485,16.65543 H 15.435898 Z"
+       style="stroke-width:0.0771704" />
+  </g>
+</svg>

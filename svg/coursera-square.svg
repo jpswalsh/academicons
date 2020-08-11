@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="template-square.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 448 512"
+   height="512"
+   width="448">
+  <title
+     id="title925">Coursera</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="51"
+     inkscape:window-height="713"
+     inkscape:window-width="1315"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="256"
+     inkscape:cx="203.33333"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label=""
+       id="guide832"
+       orientation="0,1"
+       position="448,416" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label=""
+       id="guide834"
+       orientation="0,1"
+       position="448,96" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide836"
+       orientation="0,1"
+       position="448,64" />
+    <sodipodi:guide
+       position="64,512"
+       orientation="1,0"
+       id="guide835" />
+    <sodipodi:guide
+       position="384,512"
+       orientation="1,0"
+       id="guide837" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Coursera</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Coursera</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 151.28906 174.26953 L 152.03711 174.26953 C 153.33576 174.28043 154.66617 174.30262 155.98633 174.35742 C 157.19819 174.41211 158.43462 174.56407 159.64648 174.63867 C 159.84117 174.66107 160.05545 174.6821 160.24609 174.7168 C 168.1458 175.3982 175.82071 176.90437 183.13672 179.34961 C 183.98074 179.62013 184.79276 179.9228 185.61523 180.21484 C 185.88575 180.30161 186.15609 180.40856 186.41602 180.50586 C 193.29857 183.09254 199.54159 186.27341 205.07227 189.97461 L 181.95703 231.47852 C 174.58778 224.17307 165.34497 220.42924 153.36523 219.97461 L 151.01758 219.9082 C 143.47478 219.9082 136.89382 221.47771 131.11523 224.62695 A 16.946578 16.946578 0 0 0 130.24023 225.11328 C 128.1738 226.34665 126.19209 227.73242 124.29883 229.36719 C 116.5176 236.1739 112.65497 244.05253 112.23242 254.18164 C 112.23242 254.32164 112.21994 254.47331 112.21094 254.64648 C 112.01627 261.01059 113.41326 267.01665 116.5625 272.89258 C 119.35444 278.07545 123.0877 282.23275 127.95703 285.46875 A 37.708483 37.708483 0 0 0 129.80859 286.63672 C 135.77128 290.1644 142.4917 292.01495 150.32617 292.32812 C 151.27807 292.38283 152.20989 292.42578 153.11914 292.42578 C 166.12845 292.42578 176.24598 287.62062 185.19531 277.80469 C 189.21007 272.22078 192.8037 265.45707 196.1582 258.67188 L 197.8457 255.25195 L 198.64844 253.68359 L 198.62695 253.66211 L 213.91797 222.74414 A 159.01529 159.01529 0 0 1 217.35938 217.05078 C 219.10206 214.14944 221.47192 210.92575 224.03711 207.80859 L 224.08008 207.85156 L 224.08984 207.87305 C 225.32321 206.34763 226.6439 204.78905 228.0293 203.23047 L 229.90039 201.26172 L 230.25781 200.87109 L 230.99414 200.14648 L 230.97266 200.14648 L 232.54102 198.48047 L 233.68945 197.35352 C 235.28011 195.89193 236.76112 194.56327 238.125 193.48047 C 244.82343 188.09124 253.0179 183.59916 262.42188 180.20312 C 271.75111 176.77242 281.67358 174.82459 291.93359 174.35938 C 293.43892 174.30478 294.93133 174.2832 296.35938 174.2832 C 310.9688 174.2832 324.65908 177.27137 337.05078 183.19141 C 345.28555 187.16207 352.59099 192.1833 358.90039 198.25391 C 363.21922 202.39774 367.08296 207.01884 370.45898 212.10547 C 378.02291 223.51207 382.48118 236.14214 383.67188 249.63672 L 383.67188 249.6582 L 383.67188 249.67969 C 383.76917 250.92363 383.85536 252.14636 383.91016 253.40234 A 133.97395 133.97395 0 0 1 384 256.87695 L 384 257.49414 C 383.92417 278.21795 375.79569 295.72804 360.81836 311.0625 C 345.00653 327.20901 323.08097 336.63593 298.48242 337.66406 C 296.81593 337.72916 297.1403 337.73047 295.53906 337.73047 C 281.71928 337.73047 269.20902 334.78648 257.70508 329.87305 C 252.96481 327.81719 247.02374 324.50411 242.42383 321.13867 C 237.8345 317.76266 231.13672 311.00977 231.13672 311.00977 L 252.69336 271.36914 C 257.8558 276.72664 268.32121 288.71642 284.75977 292.13672 L 284.86719 292.09375 C 289.14153 293.03512 293.67576 293.34917 298.33984 292.94922 C 320.74107 291.01184 337.45023 273.16514 335.6543 253.08008 C 333.84746 232.99502 314.21566 218.27632 291.81445 220.20312 C 278.45988 221.35119 267.12956 228.15688 260.53906 237.71289 L 260.46289 237.83203 C 257.63886 241.84642 255.50729 245.66628 252.55273 251.04492 L 251.55664 252.83984 L 250.36719 255.13477 L 250.36719 255.21094 C 250.36719 255.21094 230.3234 292.86166 224.16602 303.20703 L 223.42969 304.26562 L 222.69336 305.34961 L 221.11328 307.33008 L 216.96875 312.01367 C 215.8648 313.17231 214.69654 314.29955 213.52734 315.41406 L 212.83594 316.07227 C 210.84533 317.88023 208.80003 319.57929 206.61328 321.14844 L 204.79492 322.39258 L 203.71094 323.11914 C 202.25117 324.13669 200.77928 325.08764 199.2207 325.98633 C 196.35255 327.59814 193.55142 329.04983 190.66211 330.2832 C 179.10492 335.23894 166.21517 337.7168 152.28711 337.7168 C 150.72853 337.7168 149.16994 337.67447 147.58984 337.60938 C 122.97013 336.58161 102.463 327.87893 86.695312 311.73242 C 71.587474 296.34314 63.991 278.01172 64 257.16797 C 64 255.92257 64.031338 254.65834 64.085938 253.38086 C 64.735258 238.4783 69.259755 224.59453 77.548828 212.08398 C 85.859444 199.57344 97.071654 189.86593 110.90234 183.19922 C 123.25029 177.3007 136.75575 174.32433 151.28906 174.26953 z "
+       id="path2" />
+  </g>
+</svg>

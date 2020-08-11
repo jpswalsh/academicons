@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="template-square.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 448 512"
+   height="512"
+   width="448">
+  <title
+     id="title1051">Mendeley</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="51"
+     inkscape:window-height="713"
+     inkscape:window-width="1315"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="256"
+     inkscape:cx="203.33333"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label=""
+       id="guide832"
+       orientation="0,1"
+       position="448,416" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label=""
+       id="guide834"
+       orientation="0,1"
+       position="448,96" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide836"
+       orientation="0,1"
+       position="448,64" />
+    <sodipodi:guide
+       position="64,512"
+       orientation="1,0"
+       id="guide835" />
+    <sodipodi:guide
+       position="384,512"
+       orientation="1,0"
+       id="guide837" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Mendeley</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Mendeley</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 158.53125 167.13867 C 173.2341 167.29895 187.54139 174.58668 196.57031 187.83008 C 200.83364 194.116 206.18152 199.67159 212.3418 204.20898 C 220.12498 209.958 230.02233 209.79779 237.37109 203.20312 C 242.75416 198.27695 247.99012 192.91653 252.21875 187.00781 C 263.12206 171.80711 281.68298 164.20677 299.92383 168.27539 C 318.78188 172.44683 332.94199 187.22515 335.81055 205.90039 C 336.26746 208.82615 336.27959 211.81901 336.51953 214.76758 C 336.57671 220.74502 335.19393 226.40363 333.67383 232.15234 C 332.24505 237.48977 331.47814 243.0774 331.07812 248.59766 C 330.7009 253.90102 330.57631 259.29662 331.35352 264.53125 C 333.11359 276.46303 340.46243 282.16596 352.54297 281.9375 C 355.64028 281.88031 358.81781 281.91411 361.80078 282.61133 C 375.10421 285.68585 382.21251 295.16104 383.74414 308.06445 C 384.327 312.87592 383.86997 317.63132 382.81836 322.35156 C 379.73258 336.48938 365.61762 345.28936 352.69141 344.84375 C 338.24479 344.32934 326.40488 333.81384 324.11914 319.76758 C 323.07911 313.36728 323.90132 307.19544 326.32422 301.18359 C 327.61587 297.89188 328.83841 294.49798 329.39844 291.02344 C 330.90693 281.8002 327.18056 274.62315 319.74023 269.22852 C 313.47714 264.71394 306.29962 262.49592 298.7793 261.49023 C 288.65321 260.15329 278.67732 260.75983 269.03125 264.38281 C 264.89418 265.92571 261.09913 268.01633 257.8418 271.04492 C 250.07019 278.24525 249.05337 288.54374 253.93359 297.12695 C 265.59131 317.65384 251.9323 342.07747 228.91406 344.2832 C 219.18796 345.22042 210.12529 343.60833 202.19336 337.48242 C 189.90715 327.98482 186.65003 311.33321 194.0332 297.74414 C 199.74782 287.24085 197.78181 275.54924 187.0957 268.39453 C 181.23261 264.45153 174.68244 262.38184 167.7793 261.49023 C 157.09318 260.10704 146.54454 260.88537 136.42969 264.91992 C 132.10951 266.63438 128.12061 268.97638 124.86328 272.35938 C 118.33705 279.11375 117.13744 287.0224 119.86914 295.76562 C 121.12607 299.80018 122.97746 303.66473 123.9375 307.7793 C 127.76611 324.69412 117.04547 341.16366 100.03906 344.30664 C 88.690106 346.42108 79.239024 342.41984 71.490234 334.08789 C 65.329934 327.47039 63.912206 319.25383 64.003906 310.625 C 64.026696 308.01925 64.415746 305.35559 64.941406 302.73828 C 65.821446 298.4412 67.855851 294.73756 71.181641 291.70898 C 76.324681 287.02283 81.845829 283.07988 88.943359 282.07422 C 90.931886 281.8342 92.976624 281.97119 94.988281 281.83398 C 97.308389 281.7196 99.707786 281.74385 101.9707 281.27539 C 110.54237 279.56125 115.42345 274.14253 116.95508 265.04492 C 118.31514 257.05581 117.65122 249.08974 116.30273 241.22656 C 115.35393 235.55754 113.59362 230.04939 112.66797 224.36914 C 109.38781 204.19695 115.57258 186.03569 132.69336 174.80078 C 140.74663 169.51187 149.70954 167.04251 158.53125 167.13867 z M 224.30859 218.40234 C 206.82216 218.3567 192.69599 232.21982 192.65039 249.52344 C 192.59317 265.22729 204.7874 281.05664 224.13672 281.05664 C 243.42885 281.05664 255.55465 265.32017 255.62305 249.67383 C 255.66865 232.46178 241.62377 218.42604 224.30859 218.40234 z "
+       id="path2" />
+  </g>
+</svg>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="osf.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 512 512"
+   height="512"
+   width="512">
+  <title
+     id="title833">OSF</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="51"
+     inkscape:window-height="713"
+     inkscape:window-width="1315"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="256"
+     inkscape:cx="256"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide23"
+       orientation="0,1"
+       position="511.99998,64" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>OSF</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>OSF</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       id="path2"
+       d="m 255.9997,7.9999987 c -34.36057,0 -62.21509,27.8545563 -62.21509,62.2151643 0,20.303056 9.87066,38.160947 24.91769,49.517247 0.18814,-20.457899 16.79601,-36.993393 37.29685,-36.993393 20.50082,0 37.11091,16.535494 37.29909,36.993393 15.04533,-11.3563 24.9177,-29.212506 24.9177,-49.517247 C 318.21272,35.854555 290.35915,7.9999987 255.99915,7.9999987 Z M 293.29654,392.2676 c -0.18814,20.4601 -16.79601,36.99338 -37.29684,36.99338 -20.50082,0 -37.10922,-16.53551 -37.29684,-36.99338 -15.04759,11.35627 -24.91769,29.21246 -24.91769,49.51722 0,34.36059 27.85453,62.21518 62.2151,62.21518 34.36056,0 62.21508,-27.85459 62.21508,-62.21518 0,-20.30306 -9.87066,-38.16095 -24.91767,-49.51722 z M 441.78489,193.78484 c -20.30301,0 -38.16309,9.87068 -49.51717,24.91769 20.45786,0.18819 36.99333,16.79605 36.99333,37.29689 0,20.50085 -16.53547,37.11096 -36.9911,37.29916 11.35634,15.04533 29.21249,24.91769 49.51721,24.91769 C 476.14549,318.21327 504,290.35948 504,255.99942 504,221.6394 476.14549,193.78425 441.78489,193.78425 Z M 82.738898,255.99997 c 0,-20.50139 16.535509,-37.11096 36.993392,-37.29689 -11.35632,-15.04756 -29.214164,-24.91769 -49.517197,-24.91769 -34.36057,0 -62.2150945,27.85455 -62.2150945,62.21517 0,34.3606 27.8545245,62.21516 62.2150945,62.21516 20.303033,0 38.160877,-9.87068 49.517197,-24.91773 -20.457883,-0.18818 -36.993391,-16.796 -36.993391,-37.29688 z M 431.3627,80.636814 c -24.29549,-24.295544 -63.68834,-24.295544 -87.9844,0 -14.35704,14.357057 -20.00298,33.963346 -17.39331,52.633806 -0.0824,0.0809 -0.18198,0.13437 -0.26434,0.21491 -14.578,14.57799 -14.578,38.21689 0,52.79488 14.57797,14.57799 38.21681,14.57799 52.79484,0 0.0824,-0.0824 0.13455,-0.18198 0.21732,-0.26434 18.66819,2.60796 38.27445,-3.03799 52.63151,-17.39336 24.29378,-24.29778 24.29378,-63.68837 -0.003,-87.986153 z M 186.2806,378.51178 c 14.57798,-14.57799 14.57798,-38.21461 0,-52.79319 -14.57798,-14.57853 -38.21683,-14.57798 -52.79481,0 -0.0825,0.0824 -0.13448,0.18199 -0.21476,0.26215 -18.67046,-2.60795 -38.276723,3.03572 -52.63376,17.39505 -24.297753,24.29552 -24.297753,63.6884 0,87.98449 24.29551,24.29552 63.68833,24.29552 87.98439,0 14.35702,-14.35703 20.00297,-33.96333 17.39333,-52.63386 0.0848,-0.0786 0.18364,-0.13228 0.26672,-0.21505 z m 0,-245.02583 c -0.0826,-0.0824 -0.18198,-0.13436 -0.26445,-0.21494 2.60795,-18.66823 -3.038,-38.27452 -17.39332,-52.633811 -24.29777,-24.295544 -63.68832,-24.295544 -87.984405,0 -24.297747,24.297781 -24.297747,63.688381 0,87.986151 14.357042,14.35706 33.963315,20.00301 52.631515,17.39336 0.0808,0.0824 0.13447,0.18199 0.21475,0.26434 14.57799,14.57799 38.21684,14.57799 52.79482,0 14.57797,-14.57802 14.57797,-38.21689 0,-52.79488 z m 245.0821,209.89048 c -14.35703,-14.35703 -33.96329,-20.00301 -52.63378,-17.39505 -0.0809,-0.0824 -0.13228,-0.18199 -0.21506,-0.26215 -14.57797,-14.57799 -38.21685,-14.57799 -52.79482,0 -14.57797,14.57799 -14.57797,38.21461 0,52.79316 0.0827,0.0828 0.18198,0.13455 0.26434,0.21505 -2.60796,18.67053 3.03802,38.27683 17.39334,52.63386 24.29552,24.29552 63.68834,24.29552 87.98439,0 24.29775,-24.29552 24.29775,-63.68841 0.003,-87.98451 z"
+       style="stroke-width:0.07717" />
+  </g>
+</svg>

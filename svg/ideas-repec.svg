@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="384"
+   height="512"
+   viewBox="0 0 384 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="ideas-repec.svg">
+  <title
+     id="title833">IDEAS/RePEc</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="192"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1315"
+     inkscape:window-height="713"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4" />
+    <sodipodi:guide
+       position="384.00001,64"
+       orientation="0,1"
+       id="guide23"
+       inkscape:label="baseline"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>IDEAS/RePEc</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>IDEAS/RePEc</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       style="stroke-width:0.0771803"
+       d="M 252.87863,446.32417 158.656,471.57084 c -6.71285,1.79819 -13.67627,-2.22149 -15.47496,-8.9344 -1.79821,-6.71279 2.22153,-13.67624 8.93439,-15.47492 l 94.22265,-25.24667 c 6.71286,-1.79819 13.67628,2.22154 15.47495,8.9344 1.80018,6.7129 -2.22153,13.67624 -8.9344,15.47492 z M 209.25322,156.76615 c -0.84422,11.48574 -7.34147,17.95936 -17.42823,17.79545 -10.04344,-0.16199 -17.3524,-7.04413 -17.1112,-17.52518 0.2338,-10.19851 6.62867,-16.89708 17.5055,-16.77845 10.86993,0.11701 16.25814,6.54008 17.03393,16.50818 z m 120.7945,-38.71028 C 292.56506,56.147661 218.32495,26.069009 149.35389,46.220885 88.995296,63.855829 49.640648,103.7116 35.330355,165.00254 c -14.16409,60.66627 3.465461,112.84605 48.084268,156.54533 10.464808,10.24874 20.085397,22.66333 25.984567,35.90938 5.91393,13.27857 7.80959,17.43169 22.21488,13.94458 20.00615,-4.84083 39.74403,-10.78726 59.74625,-15.6458 10.25412,-2.49129 14.1498,-8.21621 14.08138,-18.5535 -0.27368,-41.72043 -0.18164,-83.44283 -0.0306,-125.16373 0.034,-9.44387 -2.93432,-17.21952 -13.09492,-17.45531 -10.28662,-0.23917 -13.43507,7.27651 -13.34892,16.90448 0.23774,27.0488 0.0719,54.10057 0.0704,81.14941 -0.002,43.51515 0,43.51515 -42.78813,49.76777 C 119.98449,323.76744 105.1721,307.01264 90.59747,290.05402 38.286225,229.1879 47.852676,139.21192 113.1402,92.6108 c 46.90335,-33.481061 97.29038,-35.344257 147.52432,-7.075126 46.64439,26.249386 72.0206,80.330286 65.29492,132.645446 -4.4933,34.94802 -21.18166,62.84449 -45.93315,86.82557 -14.9384,14.47374 -28.55017,30.05502 -33.45006,50.98267 -2.29195,9.78798 -7.78055,14.64307 -17.26233,16.97979 1.77162,-1.64707 -102.20159,27.48597 -102.20159,27.48597 -6.57798,1.76224 -10.51699,8.5854 -8.75472,15.16333 l 0.27175,1.017 c 1.76226,6.5765 8.58538,10.517 15.16336,8.75472 0,0 119.29999,-32.05849 120.86438,-32.50149 11.04812,-3.04951 17.06097,-10.91472 17.31303,-22.14107 0.37606,-16.75828 7.65795,-29.80298 19.5075,-40.93725 6.34413,-5.96218 12.66122,-11.97701 18.63081,-18.30642 49.276,-52.26299 57.40804,-131.56152 19.93968,-193.44855 z"
+       id="path2" />
+  </g>
+</svg>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="closed-access.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 256 512"
+   height="512"
+   width="256">
+  <title
+     id="title833">Closed Access</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="51"
+     inkscape:window-height="713"
+     inkscape:window-width="1315"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="256"
+     inkscape:cx="128"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide23"
+       orientation="0,1"
+       position="256,64" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Closed Access</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Closed Access</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       d="m 128.23457,64.000002 c -56.609494,0 -102.672708,46.060038 -102.672708,102.672708 v 95.80414 C 13.767936,281.15345 6.9308953,303.25789 6.9308953,326.93246 6.9308953,393.68256 61.24827,448 128.00153,448 c 66.75488,0 121.06757,-54.31744 121.06757,-121.06753 0,-23.36039 -6.65696,-45.19142 -18.16336,-63.70974 v -96.55002 c 0,-56.61267 -46.06008,-102.672707 -102.67117,-102.672708 z m 0,41.117078 c 33.93778,0 61.55256,27.61306 61.55256,61.55563 v 56.18267 c -18.0994,-10.78622 -39.22999,-16.99355 -61.7856,-16.99355 -22.36252,0 -43.324422,6.10272 -61.321059,16.71912 v -55.90824 c 0,-33.94256 27.616291,-61.55563 61.554099,-61.55563 z m -0.23319,141.86412 c 44.08316,0 79.94664,35.86494 79.94664,79.95126 0,44.08159 -35.86352,79.95354 -79.94664,79.95354 -44.084751,0 -79.953565,-35.87195 -79.953565,-79.95354 0,-44.08634 35.868814,-79.95126 79.953565,-79.95126 z m 0.39477,46.38808 c -18.73403,0 -33.921939,15.18766 -33.921939,33.9296 0,18.73088 15.187909,33.91734 33.921939,33.91734 18.73565,0 33.92194,-15.18646 33.92194,-33.91734 0,-18.74194 -15.18629,-33.9296 -33.92194,-33.9296 z"
+       style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583"
+       id="path4" />
+  </g>
+</svg>

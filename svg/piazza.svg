@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="piazza.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 320 512"
+   height="512"
+   width="320">
+  <title
+     id="title833">Piazza</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="51"
+     inkscape:window-height="713"
+     inkscape:window-width="1315"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="256"
+     inkscape:cx="160"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       position="320,64"
+       orientation="0,1"
+       id="guide23"
+       inkscape:label="baseline"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Piazza</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Piazza</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       id="path2"
+       d="M 252.83442,101.62214 C 232.9767,81.788493 208.79911,69.532365 180.76056,65.084292 168.7188,63.17374 143.87272,63.884246 132.73482,66.460229 79.051757,78.869941 38.96665,120.79299 30.31858,173.5739 c -1.121753,6.8447 -1.324755,28.12343 -1.324755,141.24179 h -0.0031 V 448 h 45.662366 v -77.00005 c 0,-87.87067 -0.903878,-80.0464 8.435006,-73.06084 13.825456,10.34076 31.550353,18.58065 48.545503,22.56495 14.29139,3.35214 36.04786,3.95501 50.91368,1.4127 13.87358,-2.373 25.21446,-6.18712 38.09757,-12.81745 13.06898,-6.72483 23.14901,-14.28965 34.00645,-25.51677 14.00178,-14.4817 23.22863,-29.64986 29.54397,-48.56474 15.757,-47.20018 3.731,-98.34881 -31.36177,-133.39521 z m -11.94073,114.72183 c -6.43212,24.51665 -22.70231,44.10703 -45.40948,54.67706 -10.08964,4.6961 -16.45134,6.49774 -27.26547,7.72492 -4.43188,0.50227 -8.8642,0.86409 -9.84814,0.80325 -32.79853,-2.02081 -59.264257,-19.01421 -73.308899,-47.07023 -10.60326,-21.1807 -11.387259,-47.63024 -2.054502,-69.21913 4.43669,-10.26244 8.200075,-16.14422 15.166391,-23.71385 10.86402,-11.80157 23.20153,-19.51821 38.90386,-24.33422 7.13608,-2.1888 9.22864,-2.41761 22.63541,-2.46705 12.85114,-0.0482 15.70582,0.21264 21.93583,2.00463 29.83842,8.58419 52.36795,31.84654 59.68167,61.62107 2.87216,11.68957 2.69278,28.04813 -0.43667,39.9744 z"
+       style="stroke-width:0.0675239" />
+  </g>
+</svg>

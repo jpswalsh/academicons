@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="mendeley.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 512 512"
+   height="512"
+   width="512">
+  <title
+     id="title833">Mendeley</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="51"
+     inkscape:window-height="713"
+     inkscape:window-width="1315"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="256"
+     inkscape:cx="256"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide23"
+       orientation="0,1"
+       position="511.99998,64" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Mendeley</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Mendeley</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       id="path2"
+       d="m 503.60294,336.69968 c -2.37403,-20.00028 -13.3926,-34.68624 -34.01291,-39.45175 -4.62361,-1.08069 -9.54849,-1.13397 -14.34932,-1.04533 -18.72484,0.35411 -30.1155,-8.48568 -32.84361,-26.97994 -1.20468,-8.11367 -1.00996,-16.47488 -0.42527,-24.69509 0.62003,-8.55641 1.80681,-17.21888 4.02142,-25.49189 2.35616,-8.9105 4.4996,-17.67956 4.41097,-26.94459 -0.3719,-4.57029 -0.38993,-9.2118 -1.09814,-13.74672 -4.44627,-28.94662 -26.39531,-51.85234 -55.62528,-58.31807 -28.27332,-6.30636 -57.04264,5.47418 -73.94277,29.03526 -6.55437,9.15852 -14.66802,17.4669 -23.01177,25.10246 -11.39059,10.22172 -26.73193,10.46975 -38.79586,1.55877 -9.54843,-7.03296 -17.83891,-15.64263 -24.44707,-25.38581 -22.39173,-32.84362 -65.72303,-42.05585 -99.00986,-20.19503 -26.537217,17.41411 -36.121014,45.56342 -31.036767,76.83031 1.434762,8.80439 4.162889,17.34285 5.63353,26.12982 2.090162,12.18794 3.118061,24.53523 1.009965,36.91836 -2.374023,14.10129 -9.93837,22.49832 -23.224446,25.15524 -3.507526,0.72611 -7.227674,0.69075 -10.823841,0.86805 -3.118069,0.21267 -6.28893,0 -9.371146,0.37202 -11.00117,1.55878 -19.557574,7.67043 -27.529285,14.93396 -5.154984,4.6943 -8.308379,10.43441 -9.6724391,17.09488 -0.8147739,4.05683 -1.4173716,8.18438 -1.4527034,12.22329 -0.1420573,13.37469 2.0547875,26.1119 11.6032505,36.36903 12.010621,12.91453 26.661235,19.11477 44.252113,15.83739 26.359938,-4.87162 42.976689,-30.39937 37.042339,-56.61735 -1.488068,-6.37758 -4.358109,-12.36522 -6.30635,-18.61878 -4.234137,-13.55199 -2.374024,-25.81112 7.74163,-36.2804 5.04887,-5.24363 11.23125,-8.87513 17.92754,-11.53255 15.67801,-6.25355 32.02884,-7.45827 48.59232,-5.31433 10.69987,1.382 20.85089,4.58823 29.93869,10.69987 16.56347,11.08981 19.6108,29.21207 10.75314,45.49218 -11.44391,21.06306 -6.39504,46.87419 12.64858,61.59548 12.29449,9.49516 26.34247,11.9932 41.41792,10.5405 35.67828,-3.41888 56.84789,-41.27598 38.77842,-73.09266 -7.56435,-13.30397 -5.98765,-29.26533 6.05834,-40.42585 5.04887,-4.6943 10.93042,-7.93638 17.34287,-10.32787 14.95141,-5.61562 30.41679,-6.55438 46.11223,-4.48213 11.65649,1.55882 22.78168,4.99561 32.48947,11.9932 11.53251,8.36169 17.30752,19.48683 14.96935,33.78285 -0.86804,5.38554 -2.76348,10.64658 -4.76553,15.74873 -3.75549,9.31836 -5.03093,18.88423 -3.41888,28.80469 3.54289,21.77171 21.89574,38.06976 44.28801,38.86709 20.03562,0.6907 41.9139,-12.94991 46.69686,-34.86353 1.62999,-7.31636 2.3382,-14.68598 1.43478,-22.14376 z M 256.21153,294.83903 c -29.99145,0 -48.89362,-24.53523 -48.80494,-48.87619 0.0707,-26.82061 21.96693,-48.30896 49.0709,-48.23822 26.83853,0.0367 48.61021,21.78964 48.53954,48.46831 -0.10609,24.25183 -18.90219,48.64563 -48.80499,48.64563 z"
+       style="stroke-width:0.0744382" />
+  </g>
+</svg>

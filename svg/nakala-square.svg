@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="template-square.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 448 512"
+   height="512"
+   width="448">
+  <title
+     id="title1078">Nakala</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="51"
+     inkscape:window-height="713"
+     inkscape:window-width="1315"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="256"
+     inkscape:cx="203.33333"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label=""
+       id="guide832"
+       orientation="0,1"
+       position="448,416" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label=""
+       id="guide834"
+       orientation="0,1"
+       position="448,96" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide836"
+       orientation="0,1"
+       position="448,64" />
+    <sodipodi:guide
+       position="64,512"
+       orientation="1,0"
+       id="guide835" />
+    <sodipodi:guide
+       position="384,512"
+       orientation="1,0"
+       id="guide837" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Nakala</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Nakala</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 111.91992 151.06055 C 138.40911 150.7199 163.02379 167.41374 178.87891 198.41992 A 88.610631 88.610631 0 0 1 227.75391 183.72266 A 88.610631 88.610631 0 0 1 270.95312 194.96875 C 294.06317 153.07778 333.83475 139.44792 371.36719 161.52539 C 347.40329 158.19269 331.88281 159.97656 331.88281 159.97656 C 331.88281 159.97656 361.76263 170.58217 384 203.69336 C 371.45433 194.39925 353.08789 186.27148 353.08789 186.27148 C 353.08789 186.27148 363.54086 197.47943 367.79688 210.75781 C 370.43344 218.98369 369.45003 239.71088 352.24023 249.88672 C 340.26937 256.96485 325.60903 257.1494 314.13477 252.58984 A 88.610631 88.610631 0 0 1 316.36328 272.33398 A 88.610631 88.610631 0 0 1 227.75391 360.94531 A 88.610631 88.610631 0 0 1 139.14062 272.33398 A 88.610631 88.610631 0 0 1 142.64453 247.67188 C 130.83634 256.71202 111.09229 258.9526 95.759766 249.88672 C 78.550049 239.71088 77.566566 218.98369 80.203125 210.75781 C 84.459117 197.47943 94.912109 186.27148 94.912109 186.27148 C 94.912109 186.27148 76.545596 194.39925 64 203.69336 C 86.237269 170.58217 116.11719 159.97656 116.11719 159.97656 C 116.11719 159.97656 100.5966 158.19269 76.632812 161.52539 C 88.368754 154.62199 100.32362 151.20968 111.91992 151.06055 z M 227.75391 206.32422 A 66.010326 66.010326 0 0 0 161.74414 272.33398 A 66.010326 66.010326 0 0 0 227.75391 338.34375 A 66.010326 66.010326 0 0 0 293.76367 272.33398 A 66.010326 66.010326 0 0 0 227.75391 206.32422 z M 227.75391 236.89453 A 35.441025 35.441025 0 0 1 263.19336 272.33398 A 35.441025 35.441025 0 0 1 227.75391 307.77539 A 35.441025 35.441025 0 0 1 192.3125 272.33398 A 35.441025 35.441025 0 0 1 227.75391 236.89453 z M 238.3418 242.93359 A 13.51707 13.51707 0 0 0 224.98633 256.45117 A 13.51707 13.51707 0 0 0 238.50391 269.9668 A 13.51707 13.51707 0 0 0 252.01953 256.45117 A 13.51707 13.51707 0 0 0 238.50391 242.93359 A 13.51707 13.51707 0 0 0 238.3418 242.93359 z "
+       id="path2" />
+  </g>
+</svg>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="template-square.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 448 512"
+   height="512"
+   width="448">
+  <title
+     id="title1605">ResearchGate</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="51"
+     inkscape:window-height="713"
+     inkscape:window-width="1315"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="256"
+     inkscape:cx="203.33333"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label=""
+       id="guide832"
+       orientation="0,1"
+       position="448,416" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label=""
+       id="guide834"
+       orientation="0,1"
+       position="448,96" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide836"
+       orientation="0,1"
+       position="448,64" />
+    <sodipodi:guide
+       position="64,512"
+       orientation="1,0"
+       id="guide835" />
+    <sodipodi:guide
+       position="384,512"
+       orientation="1,0"
+       id="guide837" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ResearchGate</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>ResearchGate</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 325.20117 96 C 330.82804 96 335.93243 96.651372 340.45898 97.980469 C 344.93467 99.29777 348.94834 101.11477 352.49023 103.44141 C 355.98128 105.74336 359.00097 108.45416 361.49414 111.52344 C 364.05137 114.60451 366.10872 117.8918 367.7207 121.42188 C 368.34658 122.54654 368.1698 123.44247 367.17188 124.06836 L 353.27148 129.7832 C 352.09419 130.41051 351.26481 130.09098 350.61133 128.84961 C 347.4923 123.0695 344.83123 119.2734 340.45898 116.51172 C 336.03447 113.76185 331.94086 112.45703 325.20117 112.45703 C 317.87355 112.45703 314.59971 113.9142 310.00977 117.20117 C 305.45673 120.42368 302.11969 124.47694 300.15039 130.65234 C 299.75509 131.76552 299.39606 133.14769 298.97461 134.77148 C 298.62908 136.4214 298.34785 138.44168 298.16992 140.80664 C 297.99038 143.17268 297.82317 146.1016 297.66992 149.55469 C 297.56787 153.0078 297.51758 157.20137 297.51758 162.06055 C 297.51758 166.94478 297.56786 171.13868 297.66992 174.5918 C 297.82327 178.03162 297.99053 180.96013 298.16992 183.32617 C 298.34783 185.71726 298.62908 187.72549 298.97461 189.38867 C 299.39641 190.98738 299.75509 192.3661 300.15039 193.49219 C 302.11969 199.64289 304.93311 203.00606 309.07617 205.70508 C 313.16841 208.4417 317.87355 210.41211 325.20117 210.41211 C 331.71062 210.41211 337.66996 208.55732 341.55664 205.73047 C 345.40647 202.90468 348.60259 199.17139 350.03516 194.06836 C 350.6625 191.91967 351.46763 189.24603 352.01758 185.97266 C 352.51636 182.69897 352.51758 179.23534 352.51758 174.45312 C 352.51758 173.69762 352.09388 173.3125 351.39062 173.3125 L 329.12695 173.3125 C 327.87376 173.3125 327.25977 172.7001 327.25977 171.44727 L 327.25977 158.68555 C 327.25977 157.41946 327.87376 156.80469 329.12695 156.80469 L 369.98438 156.80469 C 371.26371 156.80469 371.86523 157.41911 371.86523 158.68555 L 371.86523 169.5918 C 371.86523 175.37192 371.86484 180.73178 371.26367 185.69336 C 370.68758 190.65496 369.90853 194.94977 368.92383 198.08203 C 365.80339 207.89137 360.85476 214.8745 353.27148 220.07812 C 345.66207 225.32118 335.85368 228.14648 325.20117 228.14648 C 314.25539 228.14648 305.03638 225.62955 297.51758 220.62891 C 289.9855 215.56528 284.59997 208.13333 281.31445 198.19727 C 280.68713 196.3182 280.20261 194.3877 279.83203 192.36719 C 279.4482 190.35994 279.10141 188.019 278.79492 185.32031 C 278.47552 182.5966 278.27128 179.40138 278.14453 175.62891 C 278.01631 171.88256 277.96484 167.30393 277.96484 162.06055 C 277.96484 156.7914 278.01659 152.27876 278.14453 148.51953 C 278.27168 144.74705 278.47552 141.5101 278.79492 138.8125 C 279.10141 136.12674 279.4482 133.77484 279.83203 131.76758 C 280.20261 129.74708 280.68909 127.82829 281.31641 125.94922 C 284.60193 116.01316 289.9855 108.54511 297.51758 103.53125 C 305.03642 98.518462 314.25539 96 325.20117 96 z M 173.52734 173.8125 C 217.09601 173.8125 250.33008 193.67089 250.33008 236.45898 C 250.33008 265.48697 227.41412 294.54191 196.46875 301.7793 C 215.20225 335.0277 237.7209 364.44058 254.54883 382.75195 C 264.4473 393.45532 278.19453 403.01953 291.94141 403.01953 L 291.94141 412.93164 C 287.74856 414.86159 280.88088 416 274.39648 416 C 252.23637 416 234.67781 407.22664 223.19531 393.45508 C 210.61105 378.95271 188.44983 347.61039 165.15039 305.98633 C 152.89914 305.98633 144.88164 305.98606 135.71289 305.21875 L 135.71289 369.00391 C 135.71289 392.7001 141.08505 397.67521 151.39062 399.17188 L 171.26367 401.88086 L 171.26367 412.93164 C 161.71108 412.56105 139.54998 411.80469 122.36328 411.80469 C 104.39603 411.80469 86.441431 412.56105 76.134766 412.93164 L 76.134766 401.88086 L 90.636719 399.17188 C 100.61111 397.27953 106.28906 392.7001 106.28906 369.00391 L 106.28906 218.50586 C 106.28906 194.79824 100.61076 190.24462 90.636719 188.32617 L 76.134766 185.66602 L 76.134766 174.58008 C 85.661226 174.95066 100.95604 174.94922 116.26367 174.94922 C 133.04039 174.94922 151.00846 173.8125 173.52734 173.8125 z M 166.66016 190.99805 C 156.34026 190.99805 144.52429 190.9983 135.71289 191.76562 L 135.71289 287.61133 C 144.52429 288.44166 150.22826 288.78711 163.2207 288.78711 C 197.2364 288.78711 217.84961 268.54435 217.84961 238.36523 C 217.84961 207.82875 198.76959 190.99805 166.66016 190.99805 z "
+       id="path2" />
+  </g>
+</svg>

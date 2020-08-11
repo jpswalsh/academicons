@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="448"
+   height="512"
+   viewBox="0 0 448 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="jstor-square.svg">
+  <title
+     id="title906">JSTOR</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="224"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1315"
+     inkscape:window-height="713"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4" />
+    <sodipodi:guide
+       position="448,416"
+       orientation="0,1"
+       id="guide832"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="448,96"
+       orientation="0,1"
+       id="guide834"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="448,64"
+       orientation="0,1"
+       id="guide836"
+       inkscape:label="baseline"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       id="guide835"
+       orientation="1,0"
+       position="64,512" />
+    <sodipodi:guide
+       id="guide837"
+       orientation="1,0"
+       position="384,512" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>JSTOR</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>JSTOR</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 223.64258 96.001953 C 230.66581 96.016873 240.10968 96.095282 252.83008 96.195312 C 282.43877 96.427918 300.43031 96.795181 300.90625 97.171875 C 302.12756 98.135391 301.83597 101.14616 300.45117 101.88672 C 299.78276 102.24496 296.67623 103.18647 293.54297 103.98047 C 285.60812 105.99359 280.72252 108.57964 276.5625 112.9668 C 272.04169 117.73093 268.31293 125.11119 267.51367 130.86719 C 267.15284 133.47115 266.92306 170.33955 266.91406 225.30078 C 266.90335 315.43688 266.67187 327.12751 264.71484 338.70898 C 261.21264 359.43372 251.25269 377.77228 237.48438 388.86719 C 227.7449 396.72719 219.56615 400.60266 207.12109 403.22266 C 200.87859 404.5326 186.31101 405.31017 179.06055 404.69531 C 166.52197 403.65267 160.80703 403.01101 160.18945 402.63672 C 159.41148 402.15557 145.86539 360.58286 146.33594 360.10156 C 146.49103 359.94114 150.41284 363.17656 155.05664 367.24023 C 172.73365 382.77309 179.01111 386.16508 191.74219 387.1543 C 200.60207 387.84944 208.74452 385.71124 215.43359 380.92578 C 225.44305 373.78758 231.14566 363.09716 234.29492 345.58594 C 235.11287 341.04103 235.33549 333.36441 235.58398 300.74805 C 235.74736 279.10896 236.2336 241.08758 236.66406 216.26172 C 237.65348 159.14031 237.52987 132.07342 236.25195 127.73438 C 234.7842 122.75638 231.50668 117.1837 227.55273 112.93555 C 223.23499 108.29708 218.08616 105.62452 209.74219 103.68359 C 204.04238 102.35754 202.10289 101.02571 202.67773 98.828125 C 203.28726 96.495514 202.57296 95.956473 223.64258 96.001953 z M 292.98047 111.12891 C 293.34675 111.20644 292.68508 111.96073 290.89648 113.375 C 287.552 116.01906 285.37595 118.68175 283.4082 122.54492 C 280.25677 128.72867 280.34902 125.8783 280.32812 233.03906 C 280.31216 341.22644 280.41243 337.67913 276.96094 350.63477 C 275.13233 357.50562 273.12754 362.72312 269.56641 369.86133 C 266.45989 376.11725 264.4495 379.21601 259.38867 385.52539 C 245.91165 402.34149 230.50168 411.67366 210.54688 415.0957 C 203.50232 416.32545 183.21055 416.29558 176.31836 415.03906 C 170.15332 413.94291 164.46848 412.3112 165.53516 411.91016 C 165.98431 411.74966 171.22412 411.93882 177.16992 412.33984 C 190.66026 413.22207 203.89424 412.42285 212.59375 410.15039 C 224.59231 407.04916 237.809 399.34701 247.46289 389.80273 C 253.91662 383.43985 258.18326 377.34391 263.51953 366.89062 C 267.66074 358.79002 269.01936 355.23317 270.88281 347.7207 C 274.56372 332.83749 274.44201 336.42853 274.80273 227.85352 C 275.16093 119.06192 274.86743 126.88151 278.82422 121.40625 C 281.16614 118.16867 284.23669 115.59842 288.91797 112.95703 C 291.22785 111.65237 292.61672 111.05111 292.98047 111.12891 z "
+       id="path2" />
+  </g>
+</svg>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="jstor.svg"
+   inkscape:version="1.0 (1.0+r73+1)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 512 512"
+   height="512"
+   width="512">
+  <title
+     id="title833">JSTOR</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="51"
+     inkscape:window-height="713"
+     inkscape:window-width="1315"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="237.73311"
+     inkscape:cx="307.11588"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide863"
+       orientation="0,1"
+       position="512.00002,64" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>JSTOR</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>JSTOR</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccc"
+       style="stroke-width:0.264583"
+       id="path4"
+       d="m 255.57058,64.003111 c -25.28354,-0.05458 -24.42633,0.590747 -25.15777,3.389881 -0.6898,2.637108 1.63801,4.236075 8.47778,5.827338 10.01277,2.329117 16.19196,5.537088 21.37325,11.103251 4.74474,5.097778 8.67775,11.784098 10.43906,17.757699 1.5335,5.20685 1.68204,37.68721 0.49473,106.2329 -0.51655,29.79103 -1.101,75.41615 -1.29706,101.38305 -0.29818,39.13963 -0.56626,48.35182 -1.5478,53.80571 -3.77911,21.01347 -10.62121,33.84216 -22.63257,42.408 -8.02688,5.74255 -17.79673,8.30938 -28.42858,7.47521 -15.2773,-1.18706 -22.81217,-5.25887 -44.02458,-23.8983 -5.57256,-4.8764 -10.27803,-8.75809 -10.46413,-8.56559 -0.56467,0.57756 15.69001,50.46501 16.62357,51.0424 0.7411,0.44914 7.59886,1.21765 22.64515,2.46881 8.70056,0.73784 26.18215,-0.19507 33.67316,-1.76699 14.93407,-3.14401 24.74918,-7.7931 36.43655,-17.2251 16.52199,-13.31389 28.47421,-35.32103 32.67685,-60.19072 2.34844,-13.89776 2.62514,-27.92682 2.63799,-136.09013 0.0109,-65.95347 0.28726,-110.19492 0.72025,-113.31968 0.95911,-6.907191 5.43388,-15.762721 10.85885,-21.479678 4.99202,-5.264598 10.85512,-8.367948 20.37693,-10.783694 3.75992,-0.952806 7.48776,-2.082749 8.28985,-2.512637 1.66176,-0.888665 2.01121,-4.50194 0.54563,-5.658159 -0.57112,-0.452033 -22.16017,-0.892671 -57.6906,-1.171798 -15.26448,-0.120036 -26.59876,-0.213913 -35.02664,-0.231817 z m 83.20551,18.152429 c -0.43651,-0.09334 -2.10303,0.627486 -4.87488,2.193081 -5.61754,3.169668 -9.30172,6.253218 -12.11202,10.138318 -4.74815,6.570311 -4.39496,-2.81229 -4.82479,127.737631 -0.43287,130.29001 -0.28865,125.98126 -4.70574,143.84111 -2.23615,9.01497 -3.86557,13.28156 -8.83502,23.00228 -6.40352,12.54394 -11.52332,19.85956 -19.2678,27.49502 -11.58466,11.45314 -27.4457,20.6969 -41.84397,24.41838 -10.43941,2.72695 -26.31982,3.68412 -42.50822,2.62544 -7.13496,-0.48122 -13.42158,-0.70634 -13.96056,-0.51374 -1.28002,0.48125 5.54117,2.43788 12.93922,3.75326 8.27063,1.50783 32.61975,1.5447 41.07321,0.069 23.94575,-4.10644 42.43933,-15.30473 58.61175,-35.48404 6.073,-7.57126 8.48448,-11.29073 12.21231,-18.79784 4.27335,-8.56585 6.67828,-14.82624 8.87262,-23.07126 4.14178,-15.54676 4.02234,-11.29055 4.0415,-141.11541 0.0251,-128.592911 -0.0849,-125.17324 3.69688,-132.593741 2.36129,-4.6358 4.97199,-7.83012 8.98536,-11.002994 2.14633,-1.697127 2.93968,-2.601323 2.50015,-2.694359 z" />
+  </g>
+</svg>

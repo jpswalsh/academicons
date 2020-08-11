@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="448"
+   height="512"
+   viewBox="0 0 448 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="depsy-square.svg">
+  <title
+     id="title839">Depsy</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="224"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1315"
+     inkscape:window-height="713"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4" />
+    <sodipodi:guide
+       position="448,416"
+       orientation="0,1"
+       id="guide832"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="448,96"
+       orientation="0,1"
+       id="guide834"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="448,64"
+       orientation="0,1"
+       id="guide836"
+       inkscape:label="baseline"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       id="guide835"
+       orientation="1,0"
+       position="64,496" />
+    <sodipodi:guide
+       id="guide837"
+       orientation="1,0"
+       position="384,512" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Depsy</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Depsy</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       id="path2"
+       d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 224 96 C 246.42007 96 267.75969 100.61859 287.12891 108.94531 L 263.875 108.94531 L 263.875 205.93555 C 255.14435 197.07544 245.63633 190.43078 235.34961 186 C 225.06544 181.57066 214.06364 179.35352 202.34375 179.35352 C 176.86629 179.35352 155.22157 188.99413 137.40039 208.27148 C 119.58063 227.55138 110.66992 252.27642 110.66992 282.45117 C 110.66992 311.54711 119.87618 335.88551 138.29492 355.46289 C 156.71367 375.0403 178.54271 384.82812 203.77734 384.82812 C 215.02002 384.82812 225.45313 382.82244 235.08398 378.81055 C 244.70789 374.80125 254.30578 368.24598 263.875 359.14453 L 263.875 379.79883 L 312.9082 379.79883 L 312.9082 122.96484 C 355.77371 151.66885 384 200.53592 384 256 C 384 344.36518 312.36519 416 224 416 C 135.63482 416 64 344.36518 64 256 C 64 167.63482 135.63482 96 224 96 z M 212.33203 224.61523 C 227.84543 224.61523 240.6738 229.88529 250.8125 240.41992 C 260.95667 250.95857 266.03125 264.72922 266.03125 281.73047 C 266.03125 299.09303 260.95667 313.13486 250.8125 323.84961 C 240.67233 334.56727 227.90235 339.92383 212.50781 339.92383 C 197.58905 339.92383 185.03012 334.4775 174.82617 323.58008 C 164.62221 312.6856 159.52148 298.79292 159.52148 281.91016 C 159.52148 265.14625 164.53474 251.40821 174.55859 240.68945 C 184.5839 229.97471 197.17485 224.61523 212.33203 224.61523 z " />
+  </g>
+</svg>
