@@ -1,5 +1,5 @@
 /*
- *  Academicons 2.0.0 by James Walsh (https://github.com/jpswalsh) and Katja Bercic (https://github.com/katjabercic)
+ *  Academicons 1.8.0 by James Walsh (https://github.com/jpswalsh) and Katja Bercic (https://github.com/katjabercic)
  *  Fonts generated using FontForge - https://fontforge.org
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
@@ -9,11 +9,11 @@
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src:url('../fonts/academicons-200.eot');
-    src:url('../fonts/academicons-200.eot') format('embedded-opentype'),
-        url('../fonts/academicons-200.ttf') format('truetype'),
-        url('../fonts/academicons-200.woff') format('woff'),
-        url('../fonts/academicons-200.svg') format('svg');
+    src:url('../fonts/academicons.eot');
+    src:url('../fonts/academicons.eot') format('embedded-opentype'),
+        url('../fonts/academicons.ttf') format('truetype'),
+        url('../fonts/academicons.woff') format('woff'),
+        url('../fonts/academicons.svg') format('svg');
 }
 .ai {
   font-family: 'Academicons';
@@ -27,58 +27,58 @@
   line-height: 1;
 }
 .ai-academia:before {
-  content: "\e900";
+  content: "\e9af";
 }
 .ai-academia-square:before {
-  content: "\e901";
+  content: "\e93d";
 }
 .ai-acclaim:before {
-  content: "\e902";
+  content: "\e92e";
 }
 .ai-acclaim-square:before {
-  content: "\e903";
+  content: "\e93a";
 }
 .ai-acm:before {
-  content: "\e904";
+  content: "\e93c";
 }
 .ai-acm-square:before {
-  content: "\e905";
+  content: "\e95d";
 }
 .ai-acmdl:before {
-  content: "\e906";
+  content: "\e96a";
 }
 .ai-acmdl-square:before {
-  content: "\e907";
+  content: "\e9d3";
 }
 .ai-ads:before {
-  content: "\e908";
+  content: "\e9cb";
 }
 .ai-ads-square:before {
-  content: "\e909";
+  content: "\e94a";
 }
 .ai-africarxiv:before {
-  content: "\e90a";
+  content: "\e91b";
 }
 .ai-africarxiv-square:before {
   content: "\e90b";
 }
 .ai-arxiv:before {
-  content: "\e90c";
+  content: "\e974";
 }
 .ai-arxiv-square:before {
-  content: "\e90d";
+  content: "\e9a6";
 }
 .ai-biorxiv:before {
-  content: "\e90e";
+  content: "\e9a2";
 }
 .ai-biorxiv-square:before {
-  content: "\e90f";
+  content: "\e98b";
 }
 .ai-ceur:before {
-  content: "\e910";
+  content: "\e96d";
 }
 .ai-ceur-square:before {
-  content: "\e911";
+  content: "\e92f";
 }
 .ai-ciencia-vitae:before {
   content: "\e912";
@@ -87,16 +87,16 @@
   content: "\e913";
 }
 .ai-conversation:before {
-  content: "\e914";
+  content: "\e94c";
 }
 .ai-conversation-square:before {
   content: "\e915";
 }
 .ai-coursera:before {
-  content: "\e916";
+  content: "\e95f";
 }
 .ai-coursera-square:before {
-  content: "\e917";
+  content: "\e97f";
 }
 .ai-crossref:before {
   content: "\e918";
@@ -105,10 +105,10 @@
   content: "\e919";
 }
 .ai-cv:before {
-  content: "\e91a";
+  content: "\e9a5";
 }
 .ai-cv-square:before {
-  content: "\e91b";
+  content: "\e90a";
 }
 .ai-datacite:before {
   content: "\e91c";
@@ -117,52 +117,52 @@
   content: "\e91d";
 }
 .ai-dataverse:before {
-  content: "\e91e";
+  content: "\e9f7";
 }
 .ai-dataverse-square:before {
-  content: "\e91f";
+  content: "\e9e4";
 }
 .ai-dblp:before {
-  content: "\e920";
+  content: "\e94f";
 }
 .ai-dblp-square:before {
-  content: "\e921";
+  content: "\e93f";
 }
 .ai-depsy:before {
-  content: "\e922";
+  content: "\e97a";
 }
 .ai-depsy-square:before {
-  content: "\e923";
+  content: "\e94b";
 }
 .ai-doi:before {
-  content: "\e924";
+  content: "\e97e";
 }
 .ai-doi-square:before {
-  content: "\e925";
+  content: "\e98f";
 }
 .ai-dryad:before {
-  content: "\e926";
+  content: "\e97c";
 }
 .ai-dryad-square:before {
-  content: "\e927";
+  content: "\e98c";
 }
 .ai-elsevier:before {
-  content: "\e96c";
+  content: "\e961";
 }
 .ai-elsevier-square:before {
-  content: "\e96d";
+  content: "\e910";
 }
 .ai-figshare:before {
-  content: "\e928";
+  content: "\e981";
 }
 .ai-figshare-square:before {
-  content: "\e929";
+  content: "\e9e7";
 }
 .ai-google-scholar:before {
-  content: "\e92a";
+  content: "\e9d4";
 }
 .ai-google-scholar-square:before {
-  content: "\e92b";
+  content: "\e9f9";
 }
 .ai-hal:before {
   content: "\e92c";
@@ -171,58 +171,58 @@
   content: "\e92d";
 }
 .ai-ideas-repec:before {
-  content: "\e92e";
+  content: "\e9ed";
 }
 .ai-ideas-repec-square:before {
-  content: "\e92f";
+  content: "\e9f8";
 }
 .ai-ieee:before {
-  content: "\e930";
+  content: "\e929";
 }
 .ai-ieee-square:before {
-  content: "\e931";
+  content: "\e9b9";
 }
 .ai-impactstory:before {
-  content: "\e932";
+  content: "\e9cf";
 }
 .ai-impactstory-square:before {
-  content: "\e933";
+  content: "\e9aa";
 }
 .ai-inspire:before {
-  content: "\e934";
+  content: "\e9e9";
 }
 .ai-inspire-square:before {
-  content: "\e935";
+  content: "\e9fe";
 }
 .ai-isidore:before {
   content: "\e936";
 }
 .ai-isidore-square:before {
-  content: "\e937";
+  content: "\e954";
 }
 .ai-jstor:before {
   content: "\e938";
 }
 .ai-jstor-square:before {
-  content: "\e939";
+  content: "\e944";
 }
 .ai-lattes:before {
-  content: "\e93a";
+  content: "\e9b3";
 }
 .ai-lattes-square:before {
-  content: "\e93b";
+  content: "\e99c";
 }
 .ai-mathoverflow:before {
-  content: "\e93c";
+  content: "\e9f6";
 }
 .ai-mathoverflow-square:before {
-  content: "\e93d";
+  content: "\e97b";
 }
 .ai-mendeley:before {
-  content: "\e93e";
+  content: "\e9f0";
 }
 .ai-mendeley-square:before {
-  content: "\e93f";
+  content: "\e9f3";
 }
 .ai-nakala:before {
   content: "\e940";
@@ -237,10 +237,10 @@
   content: "\e943";
 }
 .ai-open-access:before {
-  content: "\e944";
+  content: "\e939";
 }
 .ai-open-access-square:before {
-  content: "\e945";
+  content: "\e9f4";
 }
 .ai-open-data:before {
   content: "\e966";
@@ -261,37 +261,37 @@
   content: "\e947";
 }
 .ai-orcid:before {
-  content: "\e948";
+  content: "\e9d9";
 }
 .ai-orcid-square:before {
-  content: "\e949";
+  content: "\e9c3";
 }
 .ai-osf:before {
-  content: "\e94a";
+  content: "\e9ef";
 }
 .ai-osf-square:before {
-  content: "\e94b";
+  content: "\e931";
 }
 .ai-overleaf:before {
-  content: "\e94c";
+  content: "\e914";
 }
 .ai-overleaf-square:before {
-  content: "\e94d";
+  content: "\e98d";
 }
 .ai-philpapers:before {
-  content: "\e94e";
+  content: "\e98a";
 }
 .ai-philpapers-square:before {
-  content: "\e94f";
+  content: "\e96f";
 }
 .ai-piazza:before {
-  content: "\e950";
+  content: "\e99a";
 }
 .ai-piazza-square:before {
-  content: "\e951";
+  content: "\e90c";
 }
 .ai-preregistered:before {
-  content: "\e96a";
+  content: "\e906";
 }
 .ai-preregistered-square:before {
   content: "\e96b";
@@ -303,58 +303,58 @@
   content: "\e953";
 }
 .ai-publons:before {
-  content: "\e954";
+  content: "\e937";
 }
 .ai-publons-square:before {
-  content: "\e955";
+  content: "\e94e";
 }
 .ai-pubmed:before {
-  content: "\e956";
+  content: "\e99f";
 }
 .ai-pubmed-square:before {
-  content: "\e957";
+  content: "\e97d";
 }
 .ai-researcherid:before {
-  content: "\e958";
+  content: "\e91a";
 }
 .ai-researcherid-square:before {
-  content: "\e959";
-}
-.ai-researchgate:before {
-  content: "\e95a";
-}
-.ai-researchgate-square:before {
-  content: "\e95b";
-}
-.ai-sci-hub:before {
   content: "\e95c";
 }
-.ai-sci-hub-square:before {
-  content: "\e95d";
-}
-.ai-scirate:before {
+.ai-researchgate:before {
   content: "\e95e";
 }
+.ai-researchgate-square:before {
+  content: "\e99e";
+}
+.ai-sci-hub:before {
+  content: "\e959";
+}
+.ai-sci-hub-square:before {
+  content: "\e905";
+}
+.ai-scirate:before {
+  content: "\e98e";
+}
 .ai-scirate-square:before {
-  content: "\e95f";
+  content: "\e99d";
 }
 .ai-semantic-scholar:before {
-  content: "\e960";
+  content: "\e96e";
 }
 .ai-semantic-scholar-square:before {
-  content: "\e961";
+  content: "\e96c";
 }
 .ai-springer:before {
-  content: "\e962";
+  content: "\e928";
 }
 .ai-springer-square:before {
-  content: "\e963";
+  content: "\e99b";
 }
 .ai-zotero:before {
-  content: "\e964";
+  content: "\e962";
 }
 .ai-zotero-square:before {
-  content: "\e965";
+  content: "\e932";
 }
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
 .ai-lg {
