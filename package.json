@@ -14,10 +14,10 @@
     "url": "git+https://github.com/jpswalsh/academicons.git"
   },
   "keywords": [],
-  "author": "",
-  "license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
+  "author": "James Walsh",
+  "license": "OFL-1.1",
   "bugs": {
     "url": "https://github.com/jpswalsh/academicons/issues"
   },
-  "homepage": "https://github.com/jpswalsh/academicons#readme"
+  "homepage": "https://jpswalsh.github.io/academicons/"
 }

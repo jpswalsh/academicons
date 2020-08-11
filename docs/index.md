@@ -217,11 +217,11 @@ There are two ways to install Academicons on your site. The most reliable way is
 
 {% endhighlight %}
 
-Alternatively, use the RawGit service to call the most recent version of Academicons from the StackPath content distribution network using:
+Alternatively, use the jsdelivr CDN to call the most recent version of Academicons from the content distribution network using:
 
 {% highlight html %}
 
-<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
 
 {% endhighlight %}
 
