@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="moodle.svg">
+  <title
+     id="title879">Moodle</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     scale-x="1"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="320"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1315"
+     inkscape:window-height="713"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Moodle</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Moodle</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       d="M 337.17854,86.713498 C 195.04926,104.13793 130.41726,116.48289 8.000174,187.44679 l 1.135338,3.22337 9.729091,0.0984 c -0.892098,9.79855 -2.446497,34.01602 -0.460882,70.43325 -13.582718,39.30928 -0.344774,66.01474 12.086867,95.06504 1.971225,-30.21579 1.768769,-63.31014 -7.511792,-96.24536 -1.942436,-36.17262 -0.346551,-59.95619 0.531143,-69.20797 l 81.151511,0.77562 a 371.22249,371.22249 0 0 0 2.40277,47.56907 c 10e-4,6.9e-4 0.003,0.001 0.006,0.003 -1.13433,6.6568 -1.70304,13.70989 -1.70304,21.16116 v 164.96411 h 79.36644 V 269.5173 c -0.0129,-8.70371 0.94549,-16.23374 2.85803,-22.61127 20.45581,-3.35523 39.75096,-10.883 56.95809,-22.18408 13.42353,6.67454 20.14106,21.60066 20.14106,44.79535 v 155.7692 h 79.35267 V 269.51728 c 0.0576,-32.57549 13.51356,-48.85732 40.37203,-48.84773 26.85846,0.01 40.28771,16.29141 40.28771,48.84773 V 425.2865 h 79.29662 V 260.32214 c -0.01,-33.99515 -11.81484,-59.71536 -35.41193,-77.16378 -20.75777,-15.58751 -48.83312,-23.38126 -84.22876,-23.38126 -38.71456,0 -65.39237,9.20303 -80.03024,27.61068 -3.87735,-4.20138 -8.25082,-7.91703 -13.11261,-11.15949 -10.75375,-12.04119 -31.79205,-28.45094 -31.79205,-28.45094 l 78.76284,-57.553854 z"
+       id="path4"
+       style="stroke:none;stroke-width:0.999999" />
+  </g>
+</svg>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="psyarxiv.svg">
+  <title
+     id="title879">PsyArXiv</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     scale-x="1"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="320"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1315"
+     inkscape:window-height="713"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>PsyArXiv</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>PsyArXiv</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       style="stroke:none;stroke-width:1"
+       d="M 55.514415,63.999998 V 249.7729 H 249.95097 V 63.999998 Z m 48.201875,50.730082 12.45773,0.90269 c 0.36108,0 0.54302,0.18194 0.54302,0.54302 v 12.09454 c 0.18054,8.30468 0,16.61077 0.90268,24.91546 1.26376,12.63757 7.76167,19.13547 20.21869,21.12138 1.98591,0.36107 3.97111,0.36319 6.49862,0.36319 v -59.57709 h 13.90343 v 59.57709 c 16.06776,1.26375 27.25893,-8.66788 27.62,-23.83295 l 0.18335,-26.90067 0.17981,-5.95558 c 0,-1.4443 1.08393,-2.52822 2.52822,-2.52822 l 11.19189,-0.35967 v 6.85829 c -0.18054,11.19325 0.18053,22.38653 -0.90269,33.39926 -1.44429,14.80401 -10.65166,23.6503 -24.37245,27.98318 -5.05503,1.62483 -10.29129,1.62554 -16.06846,1.62554 v 24.01278 h -13.72008 v -24.01278 c -11.19328,0 -17.15098,-1.80537 -24.37244,-5.4161 -11.19328,-5.77718 -16.24759,-15.88582 -16.42813,-28.34284 -0.54161,-11.73489 -0.36319,-23.65241 -0.36319,-36.47052 z M 55.514415,261.50777 V 447.82018 L 249.95097,448 V 261.50777 Z m 206.534615,0 V 447.82018 L 456.48559,448 V 261.50777 Z m 74.51369,44.56998 c 5.88934,0.21286 11.81739,3.9838 14.67212,10.31387 3.24966,7.04093 5.9549,14.07974 8.84348,21.30121 l 1.98872,4.51343 11.55153,-27.44017 c 3.61073,-8.66576 4.8752,-9.20666 15.16578,-7.40129 l -20.76171,47.29919 13.00075,31.95357 c 1.9859,4.69396 5.77436,6.13825 10.64884,6.31878 0.36108,3.06913 0.36318,5.59805 0.36318,7.76449 a 14.081858,14.081858 0 0 1 -19.85903,-6.13895 c -4.15234,-8.12415 -7.4013,-16.78991 -11.01203,-25.27513 l -2.16854,-5.23627 -15.88513,36.83018 h -12.09805 l 21.6644,-49.28439 -12.09456,-29.60871 c -2.16643,-5.23557 -6.67985,-6.13755 -11.73488,-6.49862 v -7.40482 c 2.36954,-1.46685 5.03815,-2.1031 7.71513,-2.00637 z m -183.91818,4.89777 h 13.17707 l 24.55227,93.1562 h -12.99722 l -6.49862,-24.73563 h -39.8979 l -8.48733,17.15098 c -1.62484,3.4302 -4.69325,7.04163 -4.69325,7.04163 h -12.09454 z m 5.05291,13.89991 -21.66439,44.05165 h 32.31676 z"
+       id="path3733" />
+  </g>
+</svg>

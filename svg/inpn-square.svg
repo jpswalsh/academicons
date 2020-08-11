@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="448"
+   height="512"
+   viewBox="0 0 448 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="inpn-square.svg">
+  <title
+     id="title862">INPN</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="224"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1315"
+     inkscape:window-height="713"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4" />
+    <sodipodi:guide
+       position="448,416"
+       orientation="0,1"
+       id="guide832"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="448,96"
+       orientation="0,1"
+       id="guide834"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="448,64"
+       orientation="0,1"
+       id="guide836"
+       inkscape:label="baseline"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       id="guide835"
+       orientation="1,0"
+       position="64,512" />
+    <sodipodi:guide
+       id="guide837"
+       orientation="1,0"
+       position="384,512" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>INPN</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>INPN</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 138.375 96.001953 C 144.52757 95.965698 150.64846 96.482533 156.55664 98.048828 C 167.19859 100.88986 177.89994 103.7484 186.45703 111.14258 C 199.41172 121.00735 212.12395 132.36424 219.3457 147.27344 L 223.79688 154.40625 L 228.11328 147.1875 C 244.09314 116.19258 277.99552 96.880608 312.53711 96.205078 C 329.4534 97.927808 346.70112 103.09155 360.51367 113.55859 C 377.31027 125.71249 388.29223 144.1559 393.2168 164.11133 C 396.34017 175.35812 397.05555 187.30076 395.08984 198.83789 C 390.4615 231.50169 371.43436 259.39522 350.61523 284.0332 C 328.82259 309.50916 305.15785 333.30844 281.49805 357.05664 C 261.89774 376.39455 242.23364 396.59313 223.36719 416 C 219.12012 409.92603 212.99669 405.52952 208.31445 399.84766 C 192.03895 382.70604 175.24985 366.00324 158.5957 349.20312 C 123.8525 313.28532 85.861428 279.02179 62.992188 233.78516 C 50.980358 208.29299 47.369225 177.58408 58.546875 151.17773 C 63.123115 136.67343 73.349781 124.63188 84.988281 115.14453 C 94.453591 105.50535 107.08196 100.34752 120.01172 97.271484 C 126.03918 96.627269 132.22243 96.038208 138.375 96.001953 z M 305.4668 165.31055 C 303.46913 165.35455 301.36103 166.03002 299.12109 167.56055 C 270.66809 194.96927 243.32791 223.60519 214.85547 251.03516 C 208.16591 243.36922 200.49375 236.54061 193.41992 229.19531 C 186.31495 222.91375 178.06116 208.75622 167.56055 217.00977 C 161.19058 225.16266 146.28993 231.51135 151.02734 243.79102 C 165.2516 260.02623 181.39047 274.66103 196.45703 290.19336 C 203.5576 296.45359 211.22658 309.68422 221.97461 302.14453 C 253.64025 270.7974 285.02303 239.14584 316.57812 207.67969 C 323.03323 200.80893 336.25064 191.97395 327.16992 182.10547 C 320.72377 176.78557 314.12335 165.11986 305.4668 165.31055 z "
+       id="path2" />
+  </g>
+</svg>

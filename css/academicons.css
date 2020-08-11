@@ -188,6 +188,18 @@
 .ai-impactstory-square:before {
   content: "\e9aa";
 }
+.ai-inaturalist:before {
+  content: "\e900";
+}
+.ai-inaturalist-square:before {
+  content: "\e901";
+}
+.ai-inpn:before {
+  content: "\e902";
+}
+.ai-inpn-square:before {
+  content: "\e903";
+}
 .ai-inspire:before {
   content: "\e9e9";
 }
@@ -223,6 +235,12 @@
 }
 .ai-mendeley-square:before {
   content: "\e9f3";
+}
+.ai-moodle:before {
+  content: "\e907";
+}
+.ai-moodle-square:before {
+  content: "\e908";
 }
 .ai-nakala:before {
   content: "\e940";
@@ -302,6 +320,12 @@
 .ai-protocols-square:before {
   content: "\e953";
 }
+.ai-psyarxiv:before {
+  content: "\e90e";
+}
+.ai-psyarxiv-square:before {
+  content: "\e90f";
+}
 .ai-publons:before {
   content: "\e937";
 }
@@ -349,6 +373,18 @@
 }
 .ai-springer-square:before {
   content: "\e99b";
+}
+.ai-ssrn:before {
+  content: "\e916";
+}
+.ai-ssrn-square:before {
+  content: "\e917";
+}
+.ai-stackoverflow:before {
+  content: "\e920";
+}
+.ai-stackoverflow-square:before {
+  content: "\e921";
 }
 .ai-zotero:before {
   content: "\e962";
