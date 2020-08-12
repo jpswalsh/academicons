@@ -338,6 +338,12 @@
 .ai-pubmed-square:before {
   content: "\e97d";
 }
+.ai-pubpeer:before {
+  content: "\e922";
+}
+.ai-pubpeer-square:before {
+  content: "\e923";
+}
 .ai-researcherid:before {
   content: "\e91a";
 }
@@ -508,4 +514,12 @@
 }
 .fa.fa-pull-right {
   margin-left: .3em;
+}
+/*
+ * Accessibility: hide text for screen readers
+ */
+.sr-text {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
 }
