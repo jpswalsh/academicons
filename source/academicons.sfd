@@ -5,7 +5,7 @@ FamilyName: Academicons
 Weight: Regular
 Copyright: 
 UComments: "2020-7-8: Created with FontForge (http://fontforge.org)"
-Version: 1.8.6
+Version: 1.9.0
 DefaultBaseFilename: academicons
 ItalicAngle: 0
 UnderlinePosition: -50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1594201369
-ModificationTime: 1597189797
+ModificationTime: 1597327200
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
