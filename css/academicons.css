@@ -400,9 +400,19 @@
 }
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
 .ai-lg {
-  font-size: 1.33333333em;
+  font-size: 1.33333em;
   line-height: 0.75em;
-  vertical-align: -15%;
+  vertical-align: -.0667em;
+}
+.ai-xs {
+  font-size: .75em;
+}
+.ai-sm {
+  font-size: .875em;
+}
+
+.ai-1x {
+  font-size: 1em;
 }
 .ai-2x {
   font-size: 2em;
@@ -416,110 +426,83 @@
 .ai-5x {
   font-size: 5em;
 }
-.ai-fw {
-  width: 1.28571429em;
-  text-align: center;
+.ai-6x {
+  font-size: 6em;
 }
+.ai-7x {
+  font-size: 7em;
+}
+.ai-8x {left
+  font-size: 8em;
+}
+.ai-9x {
+  font-size: 9em;
+}
+.ai-10x {
+  font-size: 10em;
+}
+
+.ai-fw {
+  text-align: center;
+  width: 1.25em;
+}
+
 .ai-ul {
-  padding-left: 0;
-  margin-left: 2.14285714em;
   list-style-type: none;
+  margin-left: 2.5em;
+  padding-left: 0;
 }
 .ai-ul > li {
-  position: relative;
+    position: relative;
 }
 .ai-li {
+  left: -2em;
   position: absolute;
-  left: -2.14285714em;
-  width: 2.14285714em;
-  top: 0.14285714em;
   text-align: center;
+  width: 2em;
+  line-height: inherit;
 }
-.ai-li.fa-lg {
-  left: -1.85714286em;
-}
+
 .ai-border {
+border: solid 0.08em #eee;
+border-radius: .1em;
   padding: .2em .25em .15em;
-  border: solid 0.08em #eeeeee;
-  border-radius: .1em;
 }
+
 .ai-pull-left {
   float: left;
 }
 .ai-pull-right {
   float: right;
 }
-.ai.fa-pull-left {
+.ai.ai-pull-left {
   margin-right: .3em;
 }
-.ai.fa-pull-right {
-  margin-left: .3em;
+.ai.ai-pull-right {
+  margin-right: .3em;
 }
-/*
- *  Repeat of the FontAwesome style classes to prevent override if academicons.css
- *  is called after font-awesome.css.
- */
-.fa-lg {
-  font-size: 1.33333333em;
-  line-height: 0.75em;
-  vertical-align: -15%;
+
+.ai-stack {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: 2.5em;
 }
-.fa-2x {
+.ai-stack-1x,
+.ai-stack-2x {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+.ai-stack-1x {
+  line-height: inherit;
+}
+.ai-stack-2x {
   font-size: 2em;
 }
-.fa-3x {
-  font-size: 3em;
-}
-.fa-4x {
-  font-size: 4em;
-}
-.fa-5x {
-  font-size: 5em;
-}
-.fa-fw {
-  width: 1.28571429em;
-  text-align: center;
-}
-.fa-ul {
-  padding-left: 0;
-  margin-left: 2.14285714em;
-  list-style-type: none;
-}
-.fa-ul > li {
-  position: relative;
-}
-.fa-li {
-  position: absolute;
-  left: -2.14285714em;
-  width: 2.14285714em;
-  top: 0.14285714em;
-  text-align: center;
-}
-.fa-li.fa-lg {
-  left: -1.85714286em;
-}
-.fa-border {
-  padding: .2em .25em .15em;
-  border: solid 0.08em #eeeeee;
-  border-radius: .1em;
-}
-.fa-pull-left {
-  float: left;
-}
-.fa-pull-right {
-  float: right;
-}
-.fa.fa-pull-left {
-  margin-right: .3em;
-}
-.fa.fa-pull-right {
-  margin-left: .3em;
-}
-/*
- * Accessibility: hide text for screen readers
- */
-.sr-text {
-  position: absolute;
-  top: -9999px;
-  left: -9999px;
+.ai-inverse {
+  color: #fff;
 }
