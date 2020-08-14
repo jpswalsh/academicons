@@ -368,6 +368,12 @@
 .ai-scirate-square:before {
   content: "\e99d";
 }
+.ai-scopus:before {
+  content: "\e91e";
+}
+.ai-scopus-square:before {
+  content: "\e91f";
+}
 .ai-semantic-scholar:before {
   content: "\e96e";
 }
@@ -391,6 +397,9 @@
 }
 .ai-stackoverflow-square:before {
   content: "\e921";
+}
+.ai-zenodo:before {
+  content: "\e911";
 }
 .ai-zotero:before {
   content: "\e962";
