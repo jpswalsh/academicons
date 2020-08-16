@@ -86,6 +86,12 @@
 .ai-ciencia-vitae-square:before {
   content: "\e913";
 }
+.ai-closed-access:before {
+  content: "\e942";
+}
+.ai-closed-access-square:before {
+  content: "\e943";
+}
 .ai-conversation:before {
   content: "\e94c";
 }
@@ -248,11 +254,11 @@
 .ai-nakala-square:before {
   content: "\e941";
 }
-.ai-closed-access:before {
-  content: "\e942";
+.ai-obp:before {
+  content: "\e92a";
 }
-.ai-closed-access-square:before {
-  content: "\e943";
+.ai-obp-square:before {
+  content: "\e92b";
 }
 .ai-open-access:before {
   content: "\e939";
