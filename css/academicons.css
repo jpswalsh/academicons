@@ -176,6 +176,12 @@
 .ai-hal-square:before {
   content: "\e92d";
 }
+.ai-hypothesis:before {
+  content: "\e95a";
+}
+.ai-hypothesis-square:before {
+  content: "\e95b";
+}
 .ai-ideas-repec:before {
   content: "\e9ed";
 }

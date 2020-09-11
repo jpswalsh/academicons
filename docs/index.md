@@ -56,6 +56,11 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-closed-access ai-4x"></i>
+      closed-access
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-conversation ai-4x"></i>
       conversation
     </div>
@@ -126,6 +131,11 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-hypothesis ai-4x"></i>
+      hypothes.is
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-ideas-repec ai-4x"></i>
       ideas-repec
     </div>
@@ -188,11 +198,6 @@ layout: home
     <div class="col-2 center ai-case">
       <i class="ai ai-nakala ai-4x"></i>
       nakala
-    </div>
-
-    <div class="col-2 center ai-case">
-      <i class="ai ai-closed-access ai-4x"></i>
-      closed-access
     </div>
 
     <div class="col-2 center ai-case">
@@ -291,6 +296,11 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-scopus ai-4x"></i>
+      scopus
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-semantic-scholar ai-4x"></i>
       semantic-scholar
     </div>
@@ -308,6 +318,11 @@ layout: home
     <div class="col-2 center ai-case">
       <i class="ai ai-stackoverflow ai-4x"></i>
       stackoverflow
+    </div>
+
+    <div class="col-2 center ai-case">
+      <i class="ai ai-zenodo ai-4x"></i>
+      zenodo
     </div>
 
     <div class="col-2 center ai-case">
@@ -340,7 +355,7 @@ There are two ways to install Academicons on your site. The most reliable way is
 
 Alternatively, use the jsdelivr CDN to call the most recent version of Academicons from the content distribution network.
 
-Load Academicons v1 (latest release):
+Load Academicons v1 (latest release in the 1.x.x range; recommended):
 
 {% highlight html %}
 
