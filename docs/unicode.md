@@ -110,8 +110,8 @@ layout: home
         <td></td>
         <td><span class="ai ai-openedition ai-2x"></span></td>
         <td><span class="ai ai-openedition-square ai-2x"></span></td>
-        <td></td>
-        <td></td>
+        <td><span class="ai ai-ror ai-2x"></span></td>
+        <td><span class="ai ai-ror-square ai-2x"></span></td>
         <td><span class="ai ai-ads-square ai-2x"></span></td>
         <td><span class="ai ai-depsy-square ai-2x"></span></td>
         <td><span class="ai ai-conversation ai-2x"></span></td>

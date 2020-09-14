@@ -368,6 +368,12 @@
 .ai-researchgate-square:before {
   content: "\e99e";
 }
+.ai-ror:before {
+  content: "\e948";
+}
+.ai-ror-square:before {
+  content: "\e949";
+}
 .ai-sci-hub:before {
   content: "\e959";
 }

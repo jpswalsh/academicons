@@ -132,7 +132,7 @@ layout: home
 
     <div class="col-2 center ai-case">
       <i class="ai ai-hypothesis ai-4x"></i>
-      hypothes.is
+      hypothesis
     </div>
 
     <div class="col-2 center ai-case">
@@ -216,6 +216,11 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-obp ai-4x"></i>
+      obp
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-openedition ai-4x"></i>
       openedition
     </div>
@@ -276,13 +281,18 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-researcherid ai-4x"></i>
+      researcherid
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-researchgate ai-4x"></i>
       researchgate
     </div>
 
     <div class="col-2 center ai-case">
-      <i class="ai ai-researcherid ai-4x"></i>
-      researcherid
+      <i class="ai ai-ror ai-4x"></i>
+      ror
     </div>
 
     <div class="col-2 center ai-case">
@@ -343,7 +353,7 @@ Academicons is a specialist icon font for academics. It contains icons for websi
 
 ## Alongside Font Awesome
 
-Academicons was originally built as a supplement to [Font Awesome](https://fortawesome.github.io/Font-Awesome), so the two fonts intentionally share the same metrics.
+Academicons was originally built as a supplement to [Font Awesome 5](https://github.com/FortAwesome/Font-Awesome), so the two fonts intentionally share the same metrics.
 
 There are two ways to install Academicons on your site. The most reliable way is to place the `fonts` and `css` folders on your server and link to the `academicons.css` stylesheet by adding the following to the page header:
 
