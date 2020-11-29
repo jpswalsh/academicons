@@ -353,7 +353,7 @@ Academicons is a specialist icon font for academics. It contains icons for websi
 
 ## Alongside Font Awesome
 
-Academicons was originally built as a supplement to [Font Awesome 5](https://github.com/FortAwesome/Font-Awesome), so the two fonts intentionally share the same metrics.
+Academicons was originally built as a supplement to [Font Awesome 5](https://github.com/FortAwesome/Font-Awesome), so the two fonts intentionally share the same metrics. You can [style](/academicons/usage) the icons using Font Awesome CSS controls.
 
 There are two ways to install Academicons on your site. The most reliable way is to place the `fonts` and `css` folders on your server and link to the `academicons.css` stylesheet by adding the following to the page header:
 
