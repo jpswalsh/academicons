@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="crossref.svg"
-   inkscape:version="1.0 (1.0+r73+1)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    id="svg8"
    version="1.1"
    viewBox="0 0 320 512"
@@ -20,10 +20,10 @@
      id="defs2" />
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="27"
-     inkscape:window-x="51"
-     inkscape:window-height="713"
-     inkscape:window-width="1315"
+     inkscape:window-y="0"
+     inkscape:window-x="56"
+     inkscape:window-height="1043"
+     inkscape:window-width="1864"
      inkscape:guide-bbox="true"
      showguides="true"
      units="px"
@@ -31,8 +31,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer6"
      inkscape:document-units="px"
-     inkscape:cy="256"
-     inkscape:cx="160"
+     inkscape:cy="250.66667"
+     inkscape:cx="-78.666667"
      inkscape:zoom="0.75"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -46,7 +46,7 @@
        type="xygrid" />
     <sodipodi:guide
        inkscape:color="rgb(0,0,255)"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label="baseline"
        id="guide861"
        orientation="0,1"
@@ -97,8 +97,10 @@
      id="layer6"
      inkscape:groupmode="layer">
     <path
-       style="stroke-width:0.264583"
-       id="polygon4"
-       d="M 308.38475,39.999997 11.615747,140.73694 V 270.96997 L 118.70744,306.36884 11.615747,341.7677 V 472.00074 L 308.38475,371.26379 v -130.2419 l -107.09183,-35.39 107.09183,-35.39885 z" />
+       style="stroke-width:2.77830958"
+       d="M 310.36246,40 25.167851,134.01757 217.23482,200.00243 310.36246,169.33249 Z M 9.637541,139.12923 V 271.09895 L 201.67195,205.11409 Z m 207.597279,71.09651 -192.039829,65.98482 77.543069,25.53667 192.06689,-65.95772 z m 93.12764,30.6754 -192.06695,65.9848 192.06695,65.98494 z M 102.73806,311.99758 9.637541,342.66751 V 472 L 294.80495,377.9825 Z"
+       id="polygon4-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccc" />
   </g>
 </svg>
