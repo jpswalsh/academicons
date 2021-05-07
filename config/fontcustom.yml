@@ -16,6 +16,11 @@ font_descent: 64
 
 input:
   vectors: svg
+  templates: config
+
+templates:
+  - academicons.css
+  - preview
 
 output:
   fonts: academicons/fonts
