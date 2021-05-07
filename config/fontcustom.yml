@@ -23,6 +23,7 @@ templates:
   - preview
   - unicode.md
   - index.md
+  - table.html
 
 output:
   fonts: academicons/fonts
@@ -30,3 +31,4 @@ output:
   preview: academicons
   unicode.md: academicons/docs
   index.md: academicons/docs
+  table.html: test

@@ -1,0 +1,31 @@
+name: Test Academicons Fonts
+
+on:
+  workflow_run:
+    workflows: ["Build Academicons Fonts"]
+    types:
+      - completed
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get sources
+        uses: actions/checkout@v1
+
+      - name: Download a single artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: academicons
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install python3-selenium imagemagick
+          unzip academicons.zip
+          tree
+
+      - name: Add minified css
+        run: |
+          ./test/capture.py -d firefox test/glyph-table.new.png
+          npxdiff=`compare -metric AE -fuzz 25% test/glyph-table.png test/glyph-table.new.png test/glyph-table.diff.png || :`
