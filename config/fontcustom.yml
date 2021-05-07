@@ -16,3 +16,8 @@ font_descent: 64
 
 input:
   vectors: svg
+
+output:
+  fonts: academicons/fonts
+  css: academicons/css
+  preview: academicons
