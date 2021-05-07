@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title><%= font_name %> glyphs test display</title>
+<link href="../css/<%= font_name %>.css" rel="stylesheet" />
+<style>
+table {
+  font-size: 8pt;
+  text-align: center;
+}
+td {
+  font-size: 32pt;
+}
+th {
+	/* display: none; */
+}
+</style>
+</head>
+<%
+cp_lookup = Hash[@glyphs.map{|key, value| [value[:codepoint], key]}]
+%>
+<body>
+<table class="ai">
+<tr>
+  <th></th>
+  <% for col in 0..15 %><th><%= col.to_s(16) %></th><% end %>
+</tr>
+<% for row in (0xe900..0xe9ff).step(16) %>
+  <tr>
+	<th><%= row.to_s(16) %></th>
+  <% for col in 0..15
+	cp = row + col
+    name = cp_lookup[cp]
+    unless name.nil? %>
+	  <td class="<%= cp %> <%= name %>" title="<%= name %>">&#x<%= (row + col).to_s(16) %>;</td>
+    <% else %>
+      <td class="<%= cp %>"></td>
+    <% end
+  end %>
+  </tr>
+<% end %>
+</table>
+</body>
+</html>

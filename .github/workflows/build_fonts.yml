@@ -26,8 +26,9 @@ jobs:
 
       - name: Keep only specified input files
         run: |
-          jq -r 'to_entries[] | "svg/" .key + ".svg"' config/codepoints.json > files
+          jq -r 'keys[] | "svg/\(.).svg"' config/codepoints.json > files
           rm -f `find svg/ -type f | grep -vFxf files`
+          ls `cat files` > /dev/null
 
       - name: Build fonts
         run: |
@@ -47,3 +48,35 @@ jobs:
           name: academicons
           path: |
             academicons
+
+
+  test:
+    name: Test
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get sources
+        uses: actions/checkout@v1
+
+      - name: Download the built sources
+        uses: actions/download-artifact@v2
+        with:
+          name: academicons
+          path: .
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install python3-selenium imagemagick
+
+      - name: Diff glyph table
+        run: |
+          ./test/capture.py -d firefox test/glyph-table.new.png
+          npxdiff=`compare -metric AE -fuzz 25% test/glyph-table.png test/glyph-table.new.png test/glyph-table.diff.png || :`
+          echo $npxdiff pixels differ
+
+      - name: Upload table diff
+        uses: actions/upload-artifact@v2
+        with:
+          name: diff-glyphs
+          path: |
+            test/glyph-table.diff.png

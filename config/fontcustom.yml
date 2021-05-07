@@ -23,6 +23,7 @@ templates:
   - preview
   - unicode.md
   - index.md
+  - table.html
 
 output:
   fonts: academicons/fonts
@@ -31,3 +32,4 @@ output:
   unicode.md: academicons/docs
   index.md: academicons/docs
   kitchen-sink.md: academicons/docs
+  table.html: academicons/test
