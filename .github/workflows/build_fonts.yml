@@ -1,0 +1,34 @@
+name: Build Academicons Fonts
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get sources
+        uses: actions/checkout@v1
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install zlib1g-dev fontforge
+          for repo in bramstein/sfnt2woff-zopfli google/woff2 wget/sfnt2woff; do
+            dir=${TMPDIR:-/tmp}/${repo#*/}
+            git clone --recursive https://github.com/$repo $dir
+            pushd $dir
+            make
+            sudo make install || find * -maxdepth 0 -type f -executable -exec sudo cp -v {} /usr/local/bin/ \;
+            popd
+          done
+          sudo gem install fontcustom
+
+      - name: Build fonts
+        run: fontcustom compile
+
+      - name: Archive production artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: fonts
+          path: |
+            academicons
