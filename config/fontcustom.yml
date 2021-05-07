@@ -21,8 +21,12 @@ input:
 templates:
   - academicons.css
   - preview
+  - unicode.md
+  - index.md
 
 output:
   fonts: academicons/fonts
   css: academicons/css
   preview: academicons
+  unicode.md: academicons/docs
+  index.md: academicons/docs
