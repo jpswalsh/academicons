@@ -9,9 +9,10 @@ quiet: false
 
 copyright: The Academicons font is licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL), Academicons CSS, LESS, and SASS files are licensed under the MIT License (http://opensource.org/licenses/mit-license.html), The Academicons documentation is licensed under the CC BY 3.0 License (http://creativecommons.org/licenses/by/3.0/)
 
-font_em: 1792
-font_ascent: 1536
-font_descent: 256
+font_design_size: 16
+font_em: 512
+font_ascent: 448
+font_descent: 64
 
 input:
   vectors: svg
