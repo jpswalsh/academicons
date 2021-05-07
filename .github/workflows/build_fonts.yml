@@ -12,7 +12,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo apt-get install zlib1g-dev fontforge cleancss
+          sudo apt-get install zlib1g-dev fontforge yui-compressor
 
           for repo in bramstein/sfnt2woff-zopfli google/woff2 wget/sfnt2woff; do
             dir=${TMPDIR:-/tmp}/${repo#*/}
@@ -35,7 +35,7 @@ jobs:
           mv academicons.* fonts/
           sed -i 's`url("./academicons\.`url("./fonts/academicons.`g' academicons-preview.html
           sed -i 's`url("./academicons\.`url("../fonts/academicons.`g' css/academicons.css
-          cleancss -o css/academicons.min.css css/academicons.css
+          yui-compressor -o css/academicons.min.css css/academicons.css
 
       - name: Archive production artifacts
         uses: actions/upload-artifact@v2
