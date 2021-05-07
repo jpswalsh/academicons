@@ -12,7 +12,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo apt-get install zlib1g-dev fontforge yui-compressor
+          sudo apt-get install zlib1g-dev fontforge jq yui-compressor
 
           for repo in bramstein/sfnt2woff-zopfli google/woff2 wget/sfnt2woff; do
             dir=${TMPDIR:-/tmp}/${repo#*/}
@@ -25,7 +25,12 @@ jobs:
           sudo gem install fontcustom
 
       - name: Build fonts
-        run: fontcustom compile
+        run: |
+          # Pre-populate manifest with fixed codepoints, by populating the glyphs from config/manifest-template.json
+          # with the contents of config/codepoints.json
+          jq '.glyphs = ($points[0] | with_entries({key: .key, value: {codepoint: .value}}))' \
+            --slurpfile points config/codepoints.json config/manifest-template.json > .fontcustom-manifest.json
+          fontcustom compile
 
       - name: Add minified css
         run: |
