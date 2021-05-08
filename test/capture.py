@@ -13,7 +13,10 @@ browser_map = {
 	'ie': webdriver.Ie,
 	'opera': webdriver.Opera,
 	'safari': webdriver.Safari,
-	'phantomjs': webdriver.PhantomJS,
+}
+options_map = {
+	'firefox': webdriver.firefox.options.Options,
+	'chome': webdriver.chrome.options.Options,
 }
 
 
@@ -21,14 +24,14 @@ def capture(output, driver_name):
 	""" Main function: starts the selenium driver, gets the element, and saves the screenshot.
 	"""
 	url = 'file://' + str(Path(__file__).with_name('table.html').absolute())
-	if driver_name == 'firefox':
-		fireFoxOptions = webdriver.FirefoxOptions()
-		fireFoxOptions.set_headless()
-		opts = dict(firefox_options=fireFoxOptions)
+	if driver_name in options_map:
+		# browsers that support setting headless
+		opts = options_map[driver_name]()
+		opts.headless = True
 	else:
-		opts = {}
+		opts = None
 
-	driver = browser_map[driver_name](**opts)
+	driver = browser_map[driver_name](options=opts)
 
 	driver.get(url)
 
