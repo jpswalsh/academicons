@@ -24,6 +24,11 @@ jobs:
           done
           sudo gem install fontcustom
 
+      - name: Keep only specified input files
+        run: |
+          jq -r 'to_entries[] | "svg/" .key + ".svg"' config/codepoints.json > files
+          rm -f `find svg/ -type f | grep -vFxf files`
+
       - name: Build fonts
         run: |
           # Pre-populate manifest with fixed codepoints, by populating the glyphs from config/manifest-template.json
