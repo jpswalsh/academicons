@@ -43,6 +43,7 @@ jobs:
           path: |
             academicons
 
+
   test:
     name: Test
     needs: build
@@ -57,10 +58,6 @@ jobs:
           name: academicons
           path: .
 
-      - name: Find whether test/table.html is present
-        run: |
-          tree test/
-
       - name: Install dependencies
         run: |
           sudo apt-get install python3-selenium imagemagick
@@ -70,3 +67,10 @@ jobs:
           ./test/capture.py -d firefox test/glyph-table.new.png
           npxdiff=`compare -metric AE -fuzz 25% test/glyph-table.png test/glyph-table.new.png test/glyph-table.diff.png || :`
           echo $npxdiff pixels differ
+
+      - name: Upload table diff
+        uses: actions/upload-artifact@v2
+        with:
+          name: diff-glyphs
+          path: |
+            test/glyph-table.diff.png
