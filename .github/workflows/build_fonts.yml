@@ -57,6 +57,14 @@ jobs:
     steps:
       - name: Get sources
         uses: actions/checkout@v1
+        with:
+          ref: pub
+          fetch-depth: 0
+
+      - name: Install dependencies, prepare files
+        run: |
+          sudo apt-get install python3-selenium imagemagick
+          mv test/glyph-table.png test/glyph-table.current.png
 
       - name: Download the built sources
         uses: actions/download-artifact@v2
@@ -64,19 +72,45 @@ jobs:
           name: academicons
           path: .
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get install python3-selenium imagemagick
-
       - name: Diff glyph table
+        id: image-diff
         run: |
-          ./test/capture.py -d firefox test/glyph-table.new.png
-          npxdiff=`compare -metric AE -fuzz 25% test/glyph-table.png test/glyph-table.new.png test/glyph-table.diff.png || :`
-          echo $npxdiff pixels differ
+          # Update images, compute diff
+          ./test/capture.py -d firefox test/glyph-table.png
+          npxdiff=`compare -metric AE -fuzz 25% test/glyph-table.current.png test/glyph-table.png test/glyph-table.diff.png || :`
+          echo "::set-output name=PXDIFF::$npxdiff"
 
-      - name: Upload table diff
-        uses: actions/upload-artifact@v2
+
+      - name: Push table diff to gist
+        id: image-upload
+        run: |
+          git clone $GIST_URL image-gist
+
+          # Add images to gist
+          cp test/glyph-table.diff.png test/glyph-table.png image-gist/
+
+          git="git -C image-gist -c user.mail=github-actions[bot]@users.noreply.github.com -c user.name=github-actions[bot]"
+
+          $git add glyph-table.diff.png glyph-table.png
+          $git commit -m "Images generated from $GITHUB_SHA"
+
+          $git push https://${TOKEN}@${GIST_URL#https://}
+
+          echo "::set-output name=URL::${GIST_URL/github./githubusercontent.}/raw/$(git -C image-gist rev-parse HEAD)/glyph-table.diff.png"
+
+        env:
+          GIST_URL: https://gist.github.com/lucjaulmes/1df00b3e5e24e32f4eb56de5dbc934f3
+          TOKEN: ${{ secrets.GIST_PUSHER }}
+
+
+      - name: Sum up diff ?
+        run: |
+          echo "Commit caused ${{ steps.image-diff.outputs.PXDIFF }} pixels difference, diff at ${{ steps.image-upload.outputs.URL }}"
+
+
+      - name: Deploy to public branch
+        uses: actions-js/push@v1.2
+        if: ${{ github.ref == 'refs/heads/testing' }} # Only run deploy on pushes to this branch
         with:
-          name: diff-glyphs
-          path: |
-            test/glyph-table.diff.png
+          branch: pub
+          github_token: ${{ secrets.GIST_PUSHER }}
