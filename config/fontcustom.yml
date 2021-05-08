@@ -31,4 +31,4 @@ output:
   preview: academicons
   unicode.md: academicons/docs
   index.md: academicons/docs
-  table.html: test
+  table.html: academicons/test

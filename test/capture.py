@@ -21,7 +21,14 @@ def capture(output, driver_name):
 	""" Main function: starts the selenium driver, gets the element, and saves the screenshot.
 	"""
 	url = 'file://' + str(Path(__file__).with_name('table.html').absolute())
-	driver = browser_map[driver_name]()
+	if driver_name == 'firefox':
+		fireFoxOptions = webdriver.FirefoxOptions()
+		fireFoxOptions.set_headless()
+		opts = dict(firefox_options=fireFoxOptions)
+	else:
+		opts = {}
+
+	driver = browser_map[driver_name](**opts)
 
 	driver.get(url)
 
