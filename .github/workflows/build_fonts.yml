@@ -148,7 +148,7 @@ jobs:
 
           curl -X POST -H "Authorization: token ${TOKEN}"  -H "Accept: application/vnd.github.v3+json" \
               https://api.github.com/repos/$GITHUB_REPOSITORY/issues/$pr_number/comments \
-              -d "{\"body\":\"Automatically generated preview of changes:\n![glyph table]($image_url)\"}"
+              -d "{\"body\":\"Automatically generated preview of changes (in red):\n![glyph table]($image_url)\n(See [full glyph table](${image_url/.diff./.}).)\"}"
 
 
           # Enforce a maximum number of pixels difference here ?
