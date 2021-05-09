@@ -111,16 +111,29 @@ jobs:
 
           $git push https://${TOKEN}@${GIST_URL#https://}
 
-          echo "::set-output name=URL::${GIST_URL/github./githubusercontent.}/raw/$(git -C image-gist rev-parse HEAD)/glyph-table.diff.png"
+          image_url=${GIST_URL/github./githubusercontent.}/raw/$(git -C image-gist rev-parse HEAD)/glyph-table.diff.png
+          echo "Diff image available at: $image_url"
+          echo "::set-output name=URL::$image_url"
 
         env:
           GIST_URL: https://gist.github.com/lucjaulmes/1df00b3e5e24e32f4eb56de5dbc934f3
           TOKEN: ${{ secrets.GIST_PUSHER }}
 
 
-      - name: Sum up diff ?
+      - name: Post diff on PR
+        if: ${{ github.base_ref != '' }} # Only do this on pull requests
         run: |
-          echo "Commit caused ${{ steps.image-diff.outputs.PXDIFF }} pixels difference, diff at ${{ steps.image-upload.outputs.URL }}"
+          set +o histexpand # get rid of annoying ! bash behaviour
+
+          image_url=${{ steps.image-upload.outputs.URL }}
+          pr_number=$(jq -r .pull_request.number "$GITHUB_EVENT_PATH")
+
+          curl -X POST -H "Authorization: token ${TOKEN}"  -H "Accept: application/vnd.github.v3+json" \
+              https://api.github.com/repos/$GITHUB_REPOSITORY/issues/$pr_number/comments \
+              -d "{\"body\":\"Automatically generated preview of changes:\n![glyph table]($image_url)\"}"
+
+        env:
+          TOKEN: ${{ secrets.GIST_PUSHER }}
 
 
       - name: Deploy to public branch
