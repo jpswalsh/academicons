@@ -6,9 +6,17 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
+    outputs:
+      describe_commit: ${{ steps.describe.outputs.commit }}
+
     steps:
       - name: Get sources
         uses: actions/checkout@v1
+
+      - name: Describe commit
+        id: describe
+        run: |
+          echo "::set-output name=commit::`git log -n1 --pretty=format:'commit %h by %aN <%aE>%n%n%ad | %B'`"
 
       - name: Install dependencies
         run: |
@@ -107,7 +115,7 @@ jobs:
           git="git -C image-gist -c user.mail=github-actions[bot]@users.noreply.github.com -c user.name=github-actions[bot]"
 
           $git add glyph-table.diff.png glyph-table.png
-          $git commit -m "Images generated from $GITHUB_SHA"
+          $git commit -m "Images generated from ${{ needs.build.outputs.describe_commit }}"
 
           $git push https://${TOKEN}@${GIST_URL#https://}
 
@@ -142,3 +150,4 @@ jobs:
         with:
           branch: pub
           github_token: ${{ secrets.GIST_PUSHER }}
+          message: Fonts generated from ${{ needs.build.outputs.describe_commit }}
