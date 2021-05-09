@@ -79,15 +79,15 @@ jobs:
             academicons
 
 
-  test:
-    name: Test
+  diff_and_deploy:
+    name: Diff and deploy
     needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Get sources
         uses: actions/checkout@v1
         with:
-          ref: pub
+          ref: master
           fetch-depth: 0
 
       - name: Install dependencies, other setup
@@ -150,6 +150,12 @@ jobs:
               https://api.github.com/repos/$GITHUB_REPOSITORY/issues/$pr_number/comments \
               -d "{\"body\":\"Automatically generated preview of changes:\n![glyph table]($image_url)\"}"
 
+
+          # Enforce a maximum number of pixels difference here ?
+          # Each table cell is 45x45 px so there should (?) be no alignment problems,
+          # and 2025px would be the max number of pixels changed per icon.
+          [ ${{ steps.image-diff.outputs.PXDIFF }} -lt 2025 ]
+
         env:
           TOKEN: ${{ secrets.GIST_PUSHER }}
 
@@ -162,7 +168,7 @@ jobs:
           git add fonts/ css/ docs/
 
           git commit -m "Images generated from ${{ needs.build.outputs.describe_commit }}"
-          git push https://${TOKEN}@github.com/${GITHUB_REPOSITORY} HEAD:pub
+          git push https://${TOKEN}@github.com/${GITHUB_REPOSITORY} HEAD:master
 
         env:
           TOKEN: ${{ secrets.GIST_PUSHER }}
