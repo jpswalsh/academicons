@@ -84,10 +84,12 @@ jobs:
           ref: pub
           fetch-depth: 0
 
-      - name: Install dependencies, prepare files
+      - name: Install dependencies, other setup
         run: |
           sudo apt-get install python3-selenium imagemagick
           mv test/glyph-table.png test/glyph-table.current.png
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
 
       - name: Download the built sources
         uses: actions/download-artifact@v2
@@ -100,6 +102,8 @@ jobs:
         run: |
           # Update images, compute diff
           ./test/capture.py -d firefox test/glyph-table.png
+          rm -f *driver.log
+
           npxdiff=`compare -metric AE -fuzz 25% test/glyph-table.current.png test/glyph-table.png test/glyph-table.diff.png || :`
           echo "::set-output name=PXDIFF::$npxdiff"
 
@@ -107,21 +111,21 @@ jobs:
       - name: Push table diff to gist
         id: image-upload
         run: |
-          git clone $GIST_URL image-gist
+          git clone --depth=1 $GIST_URL image-gist
 
           # Add images to gist
           cp test/glyph-table.diff.png test/glyph-table.png image-gist/
 
-          git="git -C image-gist -c user.mail=github-actions[bot]@users.noreply.github.com -c user.name=github-actions[bot]"
+          git -C image-gist add glyph-table.diff.png glyph-table.png
+          git -C image-gist commit -m "Images generated from ${{ needs.build.outputs.describe_commit }}"
 
-          $git add glyph-table.diff.png glyph-table.png
-          $git commit -m "Images generated from ${{ needs.build.outputs.describe_commit }}"
-
-          $git push https://${TOKEN}@${GIST_URL#https://}
+          git -C image-gist push https://${TOKEN}@${GIST_URL#https://}
 
           image_url=${GIST_URL/github./githubusercontent.}/raw/$(git -C image-gist rev-parse HEAD)/glyph-table.diff.png
           echo "Diff image available at: $image_url"
           echo "::set-output name=URL::$image_url"
+
+          rm -rf image-gist
 
         env:
           GIST_URL: https://gist.github.com/lucjaulmes/1df00b3e5e24e32f4eb56de5dbc934f3
@@ -145,9 +149,14 @@ jobs:
 
 
       - name: Deploy to public branch
-        uses: actions-js/push@v1.2
-        if: ${{ github.ref == 'refs/heads/testing' }} # Only run deploy on pushes to this branch
-        with:
-          branch: pub
-          github_token: ${{ secrets.GIST_PUSHER }}
-          message: Fonts generated from ${{ needs.build.outputs.describe_commit }}
+        if: ${{ github.ref == 'refs/heads/sources' }} # Only run deploy on pushes to this branch
+        run: |
+          # Add modified files and new files in selected subdirectories
+          git add -u
+          git add fonts/ css/ docs/
+
+          git commit -m "Images generated from ${{ needs.build.outputs.describe_commit }}"
+          git push https://${TOKEN}@github.com/${GITHUB_REPOSITORY} HEAD:pub
+
+        env:
+          TOKEN: ${{ secrets.GIST_PUSHER }}
