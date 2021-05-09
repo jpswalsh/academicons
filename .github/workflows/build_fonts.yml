@@ -1,6 +1,12 @@
 name: Build Academicons Fonts
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - sources
+  pull_request:
+    branches:
+      - sources
 
 jobs:
   build:
