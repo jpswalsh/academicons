@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="mtmt-square.svg"
+   inkscape:version="1.1 (1:1.1+202106031931+af4d65493e)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 448 512"
+   height="512"
+   width="448"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1004">MTMT</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="56"
+     inkscape:window-height="1043"
+     inkscape:window-width="1864"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="256"
+     inkscape:cx="178.66667"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label=""
+       id="guide832"
+       orientation="0,1"
+       position="448,416" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label=""
+       id="guide834"
+       orientation="0,1"
+       position="448,96" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide836"
+       orientation="0,1"
+       position="448,64" />
+    <sodipodi:guide
+       position="64,512"
+       orientation="1,0"
+       id="guide835" />
+    <sodipodi:guide
+       position="384,512"
+       orientation="1,0"
+       id="guide837" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>MTMT</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:title>MTMT</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       id="path2"
+       d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 64 96 L 224 96 L 384 96 L 384 256 L 384 416 L 224 416 L 64 416 L 64 256 L 64 96 z M 70.880859 102.88086 L 70.880859 256 L 70.880859 409.11914 L 224 409.11914 L 377.11914 409.11914 L 377.11914 256 L 377.11914 102.88086 L 224 102.88086 L 70.880859 102.88086 z M 291.44141 142.42383 L 297.11914 142.42383 L 297.11914 151.88672 L 297.11914 161.34961 L 309.16211 161.34961 L 321.20508 161.34961 L 321.20508 168.23047 L 321.20508 175.11133 L 309.16211 175.11133 L 297.11914 175.11133 L 297.11914 200.57422 C 297.11914 231.714 297.63483 232.91831 311.57031 232.57422 L 321.20508 232.23047 L 321.20508 238.76758 C 321.20508 244.61704 320.68837 245.30563 315.87109 246.33789 C 300.04321 249.43467 287.13967 245.82139 282.15039 236.70312 C 279.56974 232.05797 279.05324 226.03618 278.53711 202.98242 L 277.84961 175.11133 L 272.85938 175.11133 C 268.73034 175.11133 267.87109 174.42344 267.87109 170.81055 C 267.87109 167.54172 269.41941 165.82249 273.89258 163.58594 C 278.88186 161.17734 280.42937 159.11286 282.83789 151.54297 C 285.59066 142.94081 286.10811 142.42383 291.44141 142.42383 z M 170.56445 159.98438 C 179.67706 160.24126 188.78427 163.649 192.6875 169.08984 L 195.95703 173.39258 L 200.94531 168.23047 C 209.8915 159.45628 227.61264 157.39221 240.17188 163.75781 C 249.6342 168.74706 251.35473 175.80015 252.04297 212.44531 L 252.73047 245.65039 L 243.09766 245.65039 L 233.46289 245.65039 L 233.46289 214.85352 C 233.46289 186.46643 233.1184 183.887 229.84961 179.58594 C 226.92484 175.97303 224.85958 175.11133 218.66602 175.11133 C 201.28964 175.11133 199.05469 179.93034 199.05469 217.26367 L 199.05469 245.65039 L 189.5918 245.65039 L 180.12891 245.65039 L 180.12891 214.85352 C 180.12891 186.46643 179.78453 183.887 176.51562 179.58594 C 173.59098 175.97303 171.52609 175.11133 164.81641 175.11133 C 155.87009 175.11133 150.36631 178.89673 147.26953 186.63867 C 146.40928 188.87524 145.7207 203.15514 145.7207 218.29492 L 145.7207 245.65039 L 136.25781 245.65039 L 126.79492 245.65039 L 126.79492 203.5 L 126.79492 161.34961 L 133.67773 161.34961 C 138.32289 161.34961 140.90379 162.20925 141.41992 163.92969 C 144.1727 172.70388 143.82712 172.53188 148.81641 167.88672 C 151.39706 165.47812 155.87027 162.72562 158.62305 161.69336 C 162.27893 160.40303 166.42236 159.86761 170.56445 159.98438 z M 291.44141 264.57422 L 297.11914 264.57422 L 297.11914 274.03711 L 297.11914 283.5 L 309.16211 283.5 L 321.20508 283.5 L 321.20508 290.38086 L 321.20508 297.26367 L 309.16211 297.26367 L 297.11914 297.26367 L 297.11914 322.72461 C 297.11914 353.86439 297.63483 355.06869 311.57031 354.72461 L 321.20508 354.38086 L 321.20508 360.91797 C 321.20508 366.76743 320.68837 367.45603 315.87109 368.48828 C 300.04321 371.58506 287.13967 367.97179 282.15039 358.85352 C 279.56974 354.20837 279.05324 348.18852 278.53711 325.13477 L 277.84961 297.26367 L 272.85938 297.26367 C 268.73034 297.26367 267.87109 296.57384 267.87109 292.96094 C 267.87109 289.69212 269.41941 287.9729 273.89258 285.73633 C 278.88186 283.32774 280.42937 281.26326 282.83789 273.69336 C 285.59066 265.09121 286.10811 264.57422 291.44141 264.57422 z M 170.56445 282.13477 C 179.67706 282.39165 188.78427 285.80133 192.6875 291.24219 L 195.95703 295.54297 L 200.94531 290.38086 C 209.8915 281.60667 227.61264 279.5426 240.17188 285.9082 C 249.6342 290.89744 251.35473 297.95054 252.04297 334.5957 L 252.73047 367.80078 L 243.09766 367.80078 L 233.46289 367.80078 L 233.46289 337.00391 C 233.46289 308.61681 233.1184 306.03741 229.84961 301.73633 C 226.92484 298.12342 224.85958 297.26367 218.66602 297.26367 C 201.28964 297.26367 199.05469 302.08073 199.05469 339.41406 L 199.05469 367.80078 L 189.5918 367.80078 L 180.12891 367.80078 L 180.12891 337.00391 C 180.12891 308.61681 179.78453 306.03741 176.51562 301.73633 C 173.59098 298.12342 171.52609 297.26367 164.81641 297.26367 C 155.87009 297.26367 150.36631 301.04712 147.26953 308.78906 C 146.40928 311.02562 145.7207 325.30552 145.7207 340.44531 L 145.7207 367.80078 L 136.25781 367.80078 L 126.79492 367.80078 L 126.79492 325.65039 L 126.79492 283.5 L 133.67773 283.5 C 138.32289 283.5 140.90379 284.35966 141.41992 286.08008 C 144.1727 294.85427 143.82712 294.68227 148.81641 290.03711 C 151.39706 287.62851 155.87027 284.876 158.62305 283.84375 C 162.27893 282.55343 166.42236 282.018 170.56445 282.13477 z " />
+  </g>
+</svg>

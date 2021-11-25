@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (1:1.1+202106031931+af4d65493e)"
+   sodipodi:docname="mtmt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1867">MTMT</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     scale-x="1"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="278"
+     inkscape:cy="255.33333"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1310"
+     inkscape:window-height="704"
+     inkscape:window-x="1976"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     width="512px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4" />
+    <sodipodi:guide
+       position="512,64"
+       orientation="0,1"
+       id="guide1785"
+       inkscape:label="baseline"
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:title>MTMT</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>MTMT</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       d="M 64,256 V 448 H 256 448 V 256 64 H 256 64 Z m 375.74199,0 V 439.74193 H 256 72.258057 V 256 72.258075 H 256 439.74199 Z"
+       id="path2"
+       style="fill-rule:evenodd;stroke:none;stroke-width:0.133333" />
+    <path
+       d="m 326.60637,277.23153 c -2.89022,9.08387 -4.74829,11.5613 -10.73543,14.45161 -5.3678,2.68388 -7.22586,4.74839 -7.22586,8.67097 0,4.33548 1.03231,5.16129 5.98715,5.16129 h 5.98714 l 0.82576,33.44517 c 0.61935,27.6645 1.23871,34.89032 4.33549,40.4645 5.98714,10.94193 21.47101,15.27742 40.46446,11.56128 5.78075,-1.2387 6.40011,-2.0645 6.40011,-9.08385 v -7.84517 l -11.56135,0.41291 c -16.72258,0.41289 -17.34193,-1.03227 -17.34193,-38.4 V 305.5154 h 14.45156 14.45172 v -8.25807 -8.25806 H 358.19347 343.74191 V 277.64443 266.28959 H 336.929 c -6.39995,0 -7.0193,0.61935 -10.32263,10.94194 z"
+       id="path8"
+       style="fill-rule:evenodd;stroke:none;stroke-width:0.133333" />
+    <path
+       d="m 177.54841,289.41218 c -3.30333,1.23871 -8.67097,4.54193 -11.76775,7.43225 -5.98714,5.5742 -5.57418,5.78064 -8.87752,-4.74839 -0.61935,-2.0645 -3.71612,-3.09677 -9.29032,-3.09677 h -8.25801 v 50.58065 50.58064 h 11.35479 11.35494 v -32.82581 c 0,-18.16774 0.82575,-35.30322 1.85806,-37.98709 3.71613,-9.29033 10.32248,-13.83226 21.05806,-13.83226 8.05162,0 10.52904,1.03225 14.03862,5.36774 3.92268,5.16129 4.33548,8.25807 4.33548,42.32259 v 36.95483 h 11.35494 11.35478 v -34.06452 c 0,-44.8 2.68383,-50.58064 23.53549,-50.58064 7.43226,0 9.90968,1.03225 13.4194,5.36774 3.92254,5.16129 4.33549,8.25807 4.33549,42.32259 v 36.95483 h 11.56119 11.56134 l -0.82576,-39.84516 c -0.8259,-43.97419 -2.89037,-52.43872 -14.24515,-58.4258 -15.07108,-7.63872 -36.33554,-5.1613 -47.07097,5.36773 l -5.98715,6.19355 -3.92253,-5.16129 c -6.81291,-9.49676 -26.83881,-13.83225 -40.87742,-8.87741 z"
+       id="path10"
+       style="fill-rule:evenodd;stroke:none;stroke-width:0.133333" />
+    <path
+       d="m 326.60637,130.6509 c -2.89022,9.08386 -4.74829,11.56128 -10.73543,14.4516 -5.3678,2.68387 -7.22586,4.74838 -7.22586,8.67097 0,4.33548 1.03231,5.16129 5.98715,5.16129 h 5.98714 l 0.82576,33.44516 c 0.61935,27.66451 1.23871,34.89031 4.33549,40.46451 5.98714,10.94192 21.47101,15.27741 40.46446,11.56128 5.78075,-1.23872 6.40011,-2.06451 6.40011,-9.08386 v -7.84517 l -11.56135,0.41291 c -16.72258,0.41291 -17.34193,-1.03227 -17.34193,-38.4 v -30.55483 h 14.45156 14.45172 v -8.25807 -8.25805 H 358.19347 343.74191 V 131.06379 119.70895 H 336.929 c -6.39995,0 -7.0193,0.61936 -10.32263,10.94195 z"
+       id="path8-3"
+       style="fill-rule:evenodd;stroke:none;stroke-width:0.133333" />
+    <path
+       d="m 177.54841,142.83153 c -3.30333,1.23871 -8.67097,4.54195 -11.76775,7.43226 -5.98714,5.57419 -5.57418,5.78064 -8.87752,-4.74838 -0.61935,-2.06453 -3.71612,-3.09677 -9.29032,-3.09677 h -8.25801 v 50.58063 50.58064 h 11.35479 11.35494 V 210.7541 c 0,-18.16774 0.82575,-35.30321 1.85806,-37.98709 3.71613,-9.29033 10.32248,-13.83225 21.05806,-13.83225 8.05162,0 10.52904,1.03226 14.03862,5.36775 3.92268,5.16128 4.33548,8.25805 4.33548,42.32256 v 36.95484 h 11.35494 11.35478 v -34.06452 c 0,-44.79999 2.68383,-50.58063 23.53549,-50.58063 7.43226,0 9.90968,1.03226 13.4194,5.36775 3.92254,5.16128 4.33549,8.25805 4.33549,42.32256 v 36.95484 h 11.56119 11.56134 l -0.82576,-39.84516 c -0.8259,-43.97419 -2.89037,-52.4387 -14.24515,-58.4258 -15.07108,-7.63871 -36.33554,-5.16129 -47.07097,5.36774 l -5.98715,6.19356 -3.92253,-5.16131 c -6.81291,-9.49676 -26.83881,-13.83225 -40.87742,-8.87741 z"
+       id="path10-6"
+       style="fill-rule:evenodd;stroke:none;stroke-width:0.133333" />
+  </g>
+</svg>

@@ -254,6 +254,12 @@
 .ai-moodle-square:before {
   content: "\e908";
 }
+.ai-mtmt:before {
+  content: "\e950";
+}
+.ai-mtmt-square:before {
+  content: "\e951";
+}
 .ai-nakala:before {
   content: "\e940";
 }

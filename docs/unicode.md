@@ -121,8 +121,8 @@ layout: home
       </tr>
       <tr>
         <td>0xe950</td>
-        <td></td>
-        <td></td>
+        <td><span class="ai ai-mtmt ai-2x"></span></td>
+        <td><span class="ai ai-mtmt-square ai-2x"></span></td>
         <td><span class="ai ai-protocols ai-2x"></span></td>
         <td><span class="ai ai-protocols-square ai-2x"></span></td>
         <td><span class="ai ai-isidore-square ai-2x"></span></td>

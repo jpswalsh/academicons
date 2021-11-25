@@ -201,6 +201,11 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-obp ai-4x"></i>
+      obp
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-open-access ai-4x"></i>
       open-access
     </div>
@@ -213,11 +218,6 @@ layout: home
     <div class="col-2 center ai-case">
       <i class="ai ai-open-materials ai-4x"></i>
       open-materials
-    </div>
-
-    <div class="col-2 center ai-case">
-      <i class="ai ai-obp ai-4x"></i>
-      obp
     </div>
 
     <div class="col-2 center ai-case">
