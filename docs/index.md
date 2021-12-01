@@ -353,6 +353,7 @@ layout: home
 Academicons is a specialist icon font for academics. It contains icons for websites and organisations related to academia that are often missing from mainstream font packages. It can be used by itself, but its primary purpose is to be used as a supplementary package alongside a larger icon set.
 
 **All product names, logos, and brandsare are the property of their respective owners. Use of these names, logos, and brands does not imply endorsement.**
+Ensure that you have the legal right to do use trademarked logos, and refer to the trademark owner for rules about their appropriate use.
 
 # How do I use it?
 
