@@ -722,6 +722,3 @@ layout: home
   </tr>
 
 </table>
-
-</body>
-</html>
