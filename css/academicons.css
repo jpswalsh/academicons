@@ -119,6 +119,8 @@
 .ai-mendeley-square:before,
 .ai-moodle:before,
 .ai-moodle-square:before,
+.ai-mtmt:before,
+.ai-mtmt-square:before,
 .ai-nakala:before,
 .ai-nakala-square:before,
 .ai-obp:before,
@@ -266,6 +268,8 @@
 .ai-mendeley-square:before { content: "\e9f3"; }
 .ai-moodle:before { content: "\e907"; }
 .ai-moodle-square:before { content: "\e908"; }
+.ai-mtmt:before { content: "\e950"; }
+.ai-mtmt-square:before { content: "\e951"; }
 .ai-nakala:before { content: "\e940"; }
 .ai-nakala-square:before { content: "\e941"; }
 .ai-obp:before { content: "\e92a"; }

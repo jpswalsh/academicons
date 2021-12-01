@@ -268,8 +268,10 @@ layout: home
   <tr>
     <th>0xe950</th>
     <td class="cp59728">
+      <span class="ai ai-mtmt ai-2x" title="mtmt"></span>
     </td>
     <td class="cp59729">
+      <span class="ai ai-mtmt-square ai-2x" title="mtmt-square"></span>
     </td>
     <td class="cp59730">
       <span class="ai ai-protocols ai-2x" title="protocols"></span>

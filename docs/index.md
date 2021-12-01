@@ -196,6 +196,11 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-mtmt ai-4x"></i>
+      mtmt
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-nakala ai-4x"></i>
       nakala
     </div>
