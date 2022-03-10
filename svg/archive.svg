@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="448"
+   height="512"
+   viewBox="0 0 448 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (1:1.1+202109281943+c3084ef5ed)"
+   sodipodi:docname="ai.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title498">Internet Archive</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     scale-x="1"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="278.66667"
+     inkscape:cy="255.33333"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1310"
+     inkscape:window-height="704"
+     inkscape:window-x="56"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     width="448px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4" />
+    <sodipodi:guide
+       position="448,64"
+       orientation="0,-1"
+       id="guide472" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:title>Internet Archive</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Internet Archive</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       d="M 393.67442,430.13954 V 448 H 54.32558 l 0.004,-17.86046 z m -13.39535,-26.7907 v 22.32558 H 67.72093 v -22.32558 z m -279.82718,-241.11628 3.72578,1.88307 1.86463,30.111 1.86468,48.92719 v 47.05495 l -1.86468,58.65578 -0.31033,39.51552 -5.28008,1.57342 H 81.81596 l -5.59041,-1.57342 -2.1713,-39.51552 -1.8682,-58.3425 v -47.05139 l 1.8682,-49.24403 1.70425,-30.27304 3.88621,-1.72103 z m 267.90907,0 3.73007,1.88307 1.86146,30.111 1.86147,48.92719 v 47.05495 l -1.86147,58.65578 -0.30675,39.51552 -5.28478,1.57342 h -18.6361 l -5.59153,-1.57342 -2.17884,-39.51552 -1.86146,-58.3425 v -47.05139 l 1.86146,-49.24403 1.7117,-30.27304 3.8834,-1.72103 z m -187.5377,0 3.7261,1.88307 1.86486,30.111 1.86485,48.92719 v 47.05495 l -1.86485,58.65578 -0.30676,39.51552 -5.2842,1.57342 h -18.63779 l -5.59457,-1.57342 -2.17148,-39.51552 -1.86128,-58.3425 v -47.05139 l 1.86128,-49.24403 1.71153,-30.27304 3.87947,-1.72103 z m 102.69768,0 3.72609,1.88307 1.86486,30.111 1.86486,48.92719 v 47.05495 l -1.86486,58.65578 -0.30675,39.51552 -5.2842,1.57342 h -18.6378 l -5.59099,-1.57342 -2.17505,-39.51552 -1.86128,-58.3425 v -47.05139 l 1.86128,-49.24403 1.71152,-30.27304 3.883,-1.72103 z m 96.75813,-40.18605 v 31.25581 H 67.72093 V 122.04651 Z M 220.78476,64 l 163.95943,37.5464 -6.57274,11.56988 H 64.14879 l -9.82321,-9.383 z"
+       id="path2"
+       style="stroke-width:0.999999" />
+  </g>
+</svg>

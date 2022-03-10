@@ -62,6 +62,12 @@
 .ai-africarxiv-square:before {
   content: "\e90b";
 }
+.ai-archive:before {
+  content: "\e955";
+}
+.ai-archive-square:before {
+  content: "\e956";
+}
 .ai-arxiv:before {
   content: "\e974";
 }
