@@ -36,6 +36,11 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-archive ai-4x"></i>
+      archive
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-arxiv ai-4x"></i>
       arxiv
     </div>
@@ -193,6 +198,11 @@ layout: home
     <div class="col-2 center ai-case">
       <i class="ai ai-moodle ai-4x"></i>
       moodle
+    </div>
+
+    <div class="col-2 center ai-case">
+      <i class="ai ai-mtmt ai-4x"></i>
+      mtmt
     </div>
 
     <div class="col-2 center ai-case">
