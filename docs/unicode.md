@@ -126,8 +126,8 @@ layout: home
         <td><span class="ai ai-protocols ai-2x"></span></td>
         <td><span class="ai ai-protocols-square ai-2x"></span></td>
         <td><span class="ai ai-isidore-square ai-2x"></span></td>
-        <td></td>
-        <td></td>
+        <td><span class="ai ai-archive ai-2x"></span></td>
+        <td><span class="ai ai-archive-square ai-2x"></span></td>
         <td></td>
         <td></td>
         <td><span class="ai ai-sci-hub ai-2x"></span></td>
