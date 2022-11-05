@@ -139,8 +139,10 @@ layout: home
       <span class="ai ai-pubpeer-square ai-2x" title="pubpeer-square"></span>
     </td>
     <td class="cp59684">
+      <span class="ai ai-clarivate ai-2x" title="clarivate"></span>
     </td>
     <td class="cp59685">
+      <span class="ai ai-clarivate-square ai-2x" title="clarivate-square"></span>
     </td>
     <td class="cp59686">
     </td>

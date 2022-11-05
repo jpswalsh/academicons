@@ -1,5 +1,5 @@
 /*
- *  academicons 1.9.2 by James Walsh (https://github.com/jpswalsh) and Katja Bercic (https://github.com/katjabercic)
+ *  academicons 1.9.1 by James Walsh (https://github.com/jpswalsh) and Katja Bercic (https://github.com/katjabercic)
  *  Fonts generated using FontCustom - https://github.com/FontCustom/fontcustom
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
@@ -65,6 +65,8 @@
 .ai-ceur-square:before,
 .ai-ciencia-vitae:before,
 .ai-ciencia-vitae-square:before,
+.ai-clarivate:before,
+.ai-clarivate-square:before,
 .ai-closed-access:before,
 .ai-closed-access-square:before,
 .ai-conversation:before,
@@ -216,6 +218,8 @@
 .ai-ceur-square:before { content: "\e92f"; }
 .ai-ciencia-vitae:before { content: "\e912"; }
 .ai-ciencia-vitae-square:before { content: "\e913"; }
+.ai-clarivate:before { content: "\e924"; }
+.ai-clarivate-square:before { content: "\e925"; }
 .ai-closed-access:before { content: "\e942"; }
 .ai-closed-access-square:before { content: "\e943"; }
 .ai-conversation:before { content: "\e94c"; }

@@ -61,6 +61,11 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-clarivate ai-4x"></i>
+      clarivate
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-closed-access ai-4x"></i>
       closed-access
     </div>
@@ -409,6 +414,12 @@ The `academicons.svg` font file can be readily imported into most font building 
 ## Desktop publishing
 
 The font files can be installed locally on your system, allowing access to the icons through most publishing software. You can also access the full set of icons in LaTeX using the [Academicons package](http://www.ctan.org/pkg/academicons).
+
+## Scientific publishing
+
+You can access the full set of icons in LaTeX using the [Academicons package](http://www.ctan.org/pkg/academicons).
+
+You can also use the font in documents produced with Quarto using the [Academicons extension](https://github.com/schochastics/academicons).
 
 # Requesting new icons
 
