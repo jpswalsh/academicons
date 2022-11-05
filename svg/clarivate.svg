@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   sodipodi:docname="clarivate.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1279">clarivate</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     scale-x="1"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75"
+     inkscape:cx="320"
+     inkscape:cy="258"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:title>clarivate</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clarivate</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       id="path207"
+       style="stroke:none;stroke-width:1"
+       d="M 235.35568,7.9999988 C 211.96101,42.200846 193.19105,79.944801 179.68464,120.05202 275.49233,137.92323 362.26687,192.9131 424.19743,275.05203 449.10589,242.12159 469.54208,205.42916 484.90552,166.1 417.08876,88.469713 330.55362,33.645185 235.35568,7.9999988 Z M 424.19743,275.05203 C 362.26787,345.46121 275.48737,392.62982 179.68464,407.96447 193.26677,442.34555 212.07277,474.70922 235.54945,504 330.65447,481.98322 417.14431,434.99416 484.90552,368.50404 469.53878,334.78298 449.11151,303.28698 424.19743,275.05203 Z M 98.632613,122.50623 c -16.251934,0.1984 -32.455925,1.15072 -48.631144,2.96939 -30.518549,97.68654 -30.544667,201.45338 -0.06617,299.15016 43.178448,4.85915 86.861501,3.8989 129.747651,-2.84043 C 146.69829,339.91162 142.18137,250.51158 166.70197,166.1 c 3.69619,-12.84476 8.02461,-25.46333 12.9165,-37.78132 -26.7764,-4.20509 -53.90065,-6.1256 -80.987546,-5.81246 z" />
+  </g>
+</svg>

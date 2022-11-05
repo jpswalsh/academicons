@@ -92,6 +92,12 @@
 .ai-ciencia-vitae-square:before {
   content: "\e913";
 }
+.ai-clarivate:before {
+  content: "\e924";
+}
+.ai-clarivate-square:before {
+  content: "\e925";
+}
 .ai-closed-access:before {
   content: "\e942";
 }

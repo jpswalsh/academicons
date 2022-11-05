@@ -61,6 +61,11 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-clarivate ai-4x"></i>
+      clarivate
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-closed-access ai-4x"></i>
       closed-access
     </div>
