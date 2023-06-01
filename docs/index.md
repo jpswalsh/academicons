@@ -346,6 +346,11 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-wiley ai-4x"></i>
+      wiley
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-zenodo ai-4x"></i>
       zenodo
     </div>

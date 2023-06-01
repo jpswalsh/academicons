@@ -434,6 +434,12 @@
 .ai-stackoverflow-square:before {
   content: "\e921";
 }
+.ai-wiley:before {
+  content: "\e926";
+}
+.ai-wiley-square:before {
+  content: "\e927";
+}
 .ai-zenodo:before {
   content: "\e911";
 }

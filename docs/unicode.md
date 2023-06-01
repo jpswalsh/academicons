@@ -70,8 +70,8 @@ layout: home
         <td><span class="ai ai-pubpeer-square ai-2x"></span></td>
         <td><span class="ai ai-clarivate ai-2x"></span></td>
         <td><span class="ai ai-clarivate-square ai-2x"></span></td>
-        <td></td>
-        <td></td>
+        <td><span class="ai ai-wiley ai-2x"></span></td>
+        <td><span class="ai ai-wiley-square ai-2x"></span></td>
         <td><span class="ai ai-springer ai-2x"></span></td>
         <td><span class="ai ai-ieee ai-2x"></span></td>
         <td><span class="ai ai-obp ai-2x"></span></td>
