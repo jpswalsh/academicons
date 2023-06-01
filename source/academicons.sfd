@@ -5,7 +5,7 @@ FamilyName: Academicons
 Weight: Regular
 Copyright: 
 UComments: "2020-7-8: Created with FontForge (http://fontforge.org)"
-Version: 1.9.3
+Version: 1.9.4
 DefaultBaseFilename: academicons
 ItalicAngle: 0
 UnderlinePosition: -50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1594201369
-ModificationTime: 1685609006
+ModificationTime: 1685611712
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -12394,7 +12394,7 @@ SplineSet
  86.046875 267.959960938 l 1x27e0
  86.046875 285.094726562 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: isni-square
@@ -13013,7 +13013,7 @@ SplineSet
  102.095703125 226.466796875 l 1
  89.83984375 226.466796875 l 1
 EndSplineSet
-Validated: 524801
+Validated: 513
 EndChar
 
 StartChar: viaf
@@ -13113,7 +13113,7 @@ SplineSet
  180.4296875 69.0625 l 2
  181.12109375 69.75390625 184.250976562 122.24609375 183.63671875 122.9375 c 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: viaf-square
@@ -13224,7 +13224,7 @@ SplineSet
  127.185546875 89.935546875 l 1
  163.697265625 134.447265625 l 2
 EndSplineSet
-Validated: 524833
+Validated: 545
 EndChar
 EndChars
 EndSplineFont
