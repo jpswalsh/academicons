@@ -145,8 +145,10 @@ layout: home
       <span class="ai ai-clarivate-square ai-2x" title="clarivate-square"></span>
     </td>
     <td class="cp59686">
+      <span class="ai ai-wiley ai-2x" title="wiley"></span>
     </td>
     <td class="cp59687">
+      <span class="ai ai-wiley-square ai-2x" title="wiley-square"></span>
     </td>
     <td class="cp59688">
       <span class="ai ai-springer ai-2x" title="springer"></span>

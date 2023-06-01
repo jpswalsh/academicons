@@ -179,6 +179,8 @@
 .ai-ssrn-square:before,
 .ai-stackoverflow:before,
 .ai-stackoverflow-square:before,
+.ai-wiley:before,
+.ai-wiley-square:before,
 .ai-zenodo:before,
 .ai-zotero:before,
 .ai-zotero-square:before {
@@ -332,6 +334,8 @@
 .ai-ssrn-square:before { content: "\e917"; }
 .ai-stackoverflow:before { content: "\e920"; }
 .ai-stackoverflow-square:before { content: "\e921"; }
+.ai-wiley:before { content: "\e926"; }
+.ai-wiley-square:before { content: "\e927"; }
 .ai-zenodo:before { content: "\e911"; }
 .ai-zotero:before { content: "\e962"; }
 .ai-zotero-square:before { content: "\e932"; }
