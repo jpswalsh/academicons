@@ -236,6 +236,12 @@
 .ai-isidore-square:before {
   content: "\e954";
 }
+.ai-isni:before {
+  content: "\e957";
+}
+.ai-isni-square:before {
+  content: "\e958";
+}
 .ai-jstor:before {
   content: "\e938";
 }
@@ -433,6 +439,12 @@
 }
 .ai-stackoverflow-square:before {
   content: "\e921";
+}
+.ai-viaf:before {
+  content: "\e933";
+}
+.ai-viaf-square:before {
+  content: "\e934";
 }
 .ai-wiley:before {
   content: "\e926";

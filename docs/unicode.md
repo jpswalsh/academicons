@@ -86,8 +86,8 @@ layout: home
         <td></td>
         <td><span class="ai ai-osf-square ai-2x"></span></td>
         <td><span class="ai ai-zotero-square ai-2x"></span></td>
-        <td></td>
-        <td></td>
+        <td><span class="ai ai-viaf ai-2x"></span></td>
+        <td><span class="ai ai-viaf-square ai-2x"></span></td>
         <td></td>
         <td><span class="ai ai-isidore ai-2x"></span></td>
         <td><span class="ai ai-publons ai-2x"></span></td>
@@ -128,8 +128,8 @@ layout: home
         <td><span class="ai ai-isidore-square ai-2x"></span></td>
         <td><span class="ai ai-archive ai-2x"></span></td>
         <td><span class="ai ai-archive-square ai-2x"></span></td>
-        <td></td>
-        <td></td>
+        <td><span class="ai ai-isni ai-2x"></span></td>
+        <td><span class="ai ai-isni-square ai-2x"></span></td>
         <td><span class="ai ai-sci-hub ai-2x"></span></td>
         <td><span class="ai ai-hypothesis ai-2x"></span></td>
         <td><span class="ai ai-hypothesis-square ai-2x"></span></td>
