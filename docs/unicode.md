@@ -186,8 +186,10 @@ layout: home
       <span class="ai ai-zotero-square ai-2x" title="zotero-square"></span>
     </td>
     <td class="cp59699">
+      <span class="ai ai-viaf ai-2x" title="viaf"></span>
     </td>
     <td class="cp59700">
+      <span class="ai ai-viaf-square ai-2x" title="viaf-square"></span>
     </td>
     <td class="cp59701">
     </td>
@@ -293,8 +295,10 @@ layout: home
       <span class="ai ai-archive-square ai-2x" title="archive-square"></span>
     </td>
     <td class="cp59735">
+      <span class="ai ai-isni ai-2x" title="isni"></span>
     </td>
     <td class="cp59736">
+      <span class="ai ai-isni-square ai-2x" title="isni-square"></span>
     </td>
     <td class="cp59737">
       <span class="ai ai-sci-hub ai-2x" title="sci-hub"></span>

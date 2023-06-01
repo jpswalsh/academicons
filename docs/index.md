@@ -181,6 +181,11 @@ layout: home
     </div>
 
     <div class="col-2 center ai-case">
+      <i class="ai ai-isni ai-4x"></i>
+      isni
+    </div>
+
+    <div class="col-2 center ai-case">
       <i class="ai ai-jstor ai-4x"></i>
       jstor
     </div>
@@ -343,6 +348,11 @@ layout: home
     <div class="col-2 center ai-case">
       <i class="ai ai-stackoverflow ai-4x"></i>
       stackoverflow
+    </div>
+
+    <div class="col-2 center ai-case">
+      <i class="ai ai-viaf ai-4x"></i>
+      viaf
     </div>
 
     <div class="col-2 center ai-case">
