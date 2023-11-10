@@ -55,6 +55,8 @@
 .ai-ads-square:before,
 .ai-africarxiv:before,
 .ai-africarxiv-square:before,
+.ai-archive:before,
+.ai-archive-square:before,
 .ai-arxiv:before,
 .ai-arxiv-square:before,
 .ai-biorxiv:before,
@@ -204,6 +206,8 @@
 .ai-ads-square:before { content: "\e94a"; }
 .ai-africarxiv:before { content: "\e91b"; }
 .ai-africarxiv-square:before { content: "\e90b"; }
+.ai-archive:before { content: "\e955"; }
+.ai-archive-square:before { content: "\e956"; }
 .ai-arxiv:before { content: "\e974"; }
 .ai-arxiv-square:before { content: "\e9a6"; }
 .ai-biorxiv:before { content: "\e9a2"; }

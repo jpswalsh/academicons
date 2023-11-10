@@ -283,8 +283,10 @@ layout: home
       <span class="ai ai-isidore-square ai-2x" title="isidore-square"></span>
     </td>
     <td class="cp59733">
+      <span class="ai ai-archive ai-2x" title="archive"></span>
     </td>
     <td class="cp59734">
+      <span class="ai ai-archive-square ai-2x" title="archive-square"></span>
     </td>
     <td class="cp59735">
     </td>
