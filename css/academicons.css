@@ -455,6 +455,9 @@
 .ai-zenodo:before {
   content: "\e911";
 }
+.ai-zenodo-square:before {
+  content: "\e904";
+}
 .ai-zotero:before {
   content: "\e962";
 }

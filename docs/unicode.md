@@ -30,7 +30,7 @@ layout: home
         <td><span class="ai ai-inaturalist-square ai-2x"></span></td>
         <td><span class="ai ai-inpn ai-2x"></span></td>
         <td><span class="ai ai-inpn-square ai-2x"></span></td>
-        <td></td>
+        <td><span class="ai ai-zenodo-square ai-2x"></span></td>
         <td><span class="ai ai-sci-hub-square ai-2x"></span></td>
         <td><span class="ai ai-preregistered ai-2x"></span></td>
         <td><span class="ai ai-moodle ai-2x"></span></td>

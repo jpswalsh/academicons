@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="zenodo-square.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 448 512"
+   height="512"
+   width="448"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1007">Zenodo</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="70"
+     inkscape:window-height="1016"
+     inkscape:window-width="1850"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer6"
+     inkscape:document-units="px"
+     inkscape:cy="255.33333"
+     inkscape:cx="224.66667"
+     inkscape:zoom="0.75"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       empspacing="4"
+       id="grid10"
+       type="xygrid" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label=""
+       id="guide832"
+       orientation="0,1"
+       position="448,416" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label=""
+       id="guide834"
+       orientation="0,1"
+       position="448,96" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="true"
+       inkscape:label="baseline"
+       id="guide836"
+       orientation="0,1"
+       position="448,64" />
+    <sodipodi:guide
+       position="64,512"
+       orientation="1,0"
+       id="guide835" />
+    <sodipodi:guide
+       position="384,512"
+       orientation="1,0"
+       id="guide837" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Zenodo</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:title>Zenodo</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="icon"
+     id="layer6"
+     inkscape:groupmode="layer">
+    <path
+       id="path2"
+       d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 296.55469 132.35938 C 308.51973 132.35938 319.87957 134.64077 330.57812 139.16016 C 341.25667 143.69287 350.54788 149.94517 358.4668 157.85742 C 366.41239 165.80967 372.73848 175.10856 377.45117 185.78711 C 377.76446 186.49368 378.03758 187.21335 378.32422 187.91992 C 378.32422 187.91992 381.02479 199.70712 381.72852 205.70117 C 383.69382 222.44103 383.98242 256.2168 383.98242 256.2168 C 383.98242 256.2168 384.60981 264.63768 378.2207 270.55078 C 373.78397 274.65697 363.66602 275.6875 363.66602 275.6875 L 245.58203 275.6875 L 245.58203 292.19141 C 245.58203 299.01049 246.96235 305.46974 249.69531 311.62891 C 252.45494 317.78141 256.08675 323.22804 260.63281 327.91406 C 265.1722 332.61341 270.61816 336.24605 276.89062 338.8457 C 283.22976 341.43201 289.76882 342.70508 296.58789 342.70508 C 306.95316 342.70508 316.2517 340.05183 324.50391 334.69922 C 332.78946 329.35995 339.02242 322.17493 343.22852 313.07617 L 346.24805 306.87695 C 347.50788 303.33743 349.70868 300.48334 352.79492 298.37695 C 355.84118 296.25724 361.14559 295.09375 365.01172 295.09375 C 375.88991 297.97295 379.37025 304.51269 380.52344 310.94727 C 381.83258 318.2518 377.93016 325.994 372.37891 335.80664 C 365.76649 347.47171 356.66607 357.22357 345.1543 365.0625 C 330.90957 374.80118 314.73289 379.64062 296.58203 379.64062 C 284.56367 379.64062 273.27081 377.39335 262.57227 372.83398 C 254.95996 369.60774 248.06211 365.46828 241.84961 360.51562 C 241.13638 370.25431 233.02413 377.93945 223.10547 377.93945 L 82.810547 377.93945 C 72.425287 377.93945 64 369.51417 64 359.12891 L 64 346.85742 C 64 342.82464 65.299891 338.8927 67.712891 335.64648 L 189.23047 172.02734 L 85.636719 172.02734 C 75.264789 172.02734 66.839844 163.6224 66.839844 153.23047 C 66.839844 142.85188 75.258109 134.41992 85.636719 134.41992 L 217.45312 134.41992 C 227.83838 134.41992 236.25 142.85188 236.25 153.23047 L 236.25 156.16992 C 243.88897 149.07755 252.53383 143.34625 262.3125 139.16016 C 272.79775 134.64077 284.22303 132.35938 296.55469 132.35938 z M 296.58789 169.28125 C 289.45551 169.28125 282.80403 170.56798 276.6582 173.1543 C 270.51237 175.76727 265.05228 179.40772 260.40625 184.09375 C 255.68023 188.78645 252.04772 194.23895 249.44141 200.38477 C 246.83509 206.53061 245.57617 213.02917 245.57617 219.79492 L 245.57617 238.73242 L 347.56836 238.73242 L 347.56836 219.79492 C 347.56836 213.02251 346.21472 206.53061 343.45508 200.38477 C 340.68213 194.23228 337.06363 188.78645 332.51758 184.09375 C 328.00487 179.40772 322.5719 175.77393 316.24609 173.1543 C 309.93361 170.56798 303.38696 169.28125 296.58789 169.28125 z M 209.46094 207.86328 L 111.09375 340.33008 L 223.10547 340.33008 C 223.21214 340.33008 223.31129 340.33789 223.41797 340.33789 C 220.50504 335.93184 217.89927 331.22554 215.71289 326.21289 C 210.98686 315.50769 208.6543 304.18312 208.6543 292.19141 L 208.6543 219.80078 C 208.6543 215.75467 208.94102 211.77609 209.46094 207.86328 z " />
+  </g>
+</svg>
