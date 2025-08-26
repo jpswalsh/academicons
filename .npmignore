@@ -1,0 +1,17 @@
+# Documentation site
+docs/
+
+# FontForge source
+source/
+
+# Development files
+bower.json
+.gitignore
+.github/
+
+# Keep everything else
+!css/
+!fonts/
+!svg/
+!package.json
+!README.md
